@@ -1,0 +1,2869 @@
+.:
+total 732
+drwxr-xr-x 3 juangh juangh   4096 feb  8  2017 activos
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 alimentos
+drwxr-xr-x 4 juangh juangh   4096 ene 23  2017 carpeta
+drwxr-xr-x 4 juangh juangh   4096 feb  8  2017 distribucion
+drwxr-xr-x 4 juangh juangh   4096 ene 23  2017 equipamiento
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 errores
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 finanzas
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 galeria
+drwxr-xr-x 2 juangh juangh   4096 ene 30  2017 incinerador
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 inspeccion
+drwxr-xr-x 3 juangh juangh   4096 feb  9  2017 investigacion
+drwxr-xr-x 3 juangh juangh   4096 ene 24  2017 lavanderia
+-rw-r--r-- 1 root   root        0 nov 28 17:17 listado.txt
+-rwxrwxrwx 1 juangh juangh    261 feb 17  2015 manage.py
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 mensajes
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 presupuesto
+drwxr-xr-x 4 juangh juangh   4096 mar  8  2017 Proyecto
+drwxr-xr-x 2 juangh juangh   4096 ene 23  2017 qrtransporte
+drwxr-xr-x 4 juangh juangh   4096 ene 23  2017 radio
+drwxr-xr-x 3 juangh juangh   4096 feb 17  2017 reclutamiento
+drwxr-xr-x 3 juangh juangh   4096 feb 13  2017 reporte
+drwxr-xr-x 3 juangh juangh   4096 feb 17  2017 rrhh
+-rw-r--r-- 1 juangh juangh 637952 mar  8  2017 sii.db
+drwxr-xr-x 3 juangh juangh   4096 feb 17  2017 singeniero
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 tareas
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 telefonos
+drwxr-xr-x 3 juangh juangh   4096 feb  8  2017 transporte
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 unidad
+drwxr-xr-x 3 juangh juangh   4096 ene 23  2017 vigilancia
+
+./activos:
+total 56
+-rwxrwxrwx 1 juangh juangh 1344 may  2  2016 admin.py
+-rwxrwxrwx 1 juangh juangh 2050 may  2  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  821 may  6  2016 forms.py
+-rwxrwxrwx 1 juangh juangh 1253 jun 30  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 abr  9  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh  124 abr 19  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh 2504 jul  7  2016 models.py
+-rwxrwxrwx 1 juangh juangh 4444 jul  7  2016 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 abr  9  2016 tests.py
+-rwxrwxrwx 1 juangh juangh 4250 feb  8  2017 views.py
+-rw-r--r-- 1 juangh juangh 4614 feb  8  2017 views.pyc
+
+./activos/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 activos
+
+./activos/plantilla/activos:
+total 20
+-rwxrwxrwx 1 juangh juangh 4065 oct 13  2016 activos.html
+-rwxrwxrwx 1 juangh juangh 1872 oct 13  2016 activos_subordinados.html
+-rwxrwxrwx 1 juangh juangh 1454 oct 13  2016 editar_activo.html
+-rwxrwxrwx 1 juangh juangh 3535 oct 13  2016 formulario_activos.html
+-rwxrwxrwx 1 juangh juangh 3510 oct 13  2016 formulario.activos.html
+
+./alimentos:
+total 44
+-rwxrwxrwx 1 juangh juangh  350 jun 28  2016 admin.py
+-rwxrwxrwx 1 juangh juangh 1034 jun 28  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  476 jun 28  2016 forms.py
+-rwxrwxrwx 1 juangh juangh 1012 jun 28  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 abr 22  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh  151 jun 28  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  881 jul  1  2016 models.py
+-rwxrwxrwx 1 juangh juangh 1803 jul  1  2016 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 abr 22  2016 tests.py
+-rwxrwxrwx 1 juangh juangh 1597 oct 13  2016 views.py
+-rw-r--r-- 1 juangh juangh 2416 nov  5  2016 views.pyc
+
+./alimentos/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 alimentos
+
+./alimentos/plantilla/alimentos:
+total 12
+-rwxrwxrwx 1 juangh juangh 3537 ago  3  2016 agregar.html
+-rwxrwxrwx 1 juangh juangh  386 jun 28  2016 inicio.html
+-rwxrwxrwx 1 juangh juangh 3049 oct 13  2016 listar.html
+
+./carpeta:
+total 92
+-rwxrwxrwx 1 juangh juangh  1330 oct 18  2016 admin.py
+-rw-r--r-- 1 juangh juangh  2913 nov  5  2016 admin.pyc
+drwxr-xr-x 2 juangh juangh  4096 ene 23  2016 ficheros
+-rwxrwxrwx 1 juangh juangh  1916 abr  1  2015 forms.py
+-rwxrwxrwx 1 juangh juangh  3736 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh     0 mar 19  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh   143 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  4333 jul 31  2015 models.py
+-rwxrwxrwx 1 juangh juangh  7613 abr 25  2016 models.pyc
+drwxr-xr-x 5 juangh juangh  4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh    60 mar 19  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 21919 oct 13  2016 views.py
+-rwxrwxrwx 1 juangh juangh 17731 oct 13  2016 views.pyc
+
+./carpeta/ficheros:
+total 0
+
+./carpeta/plantilla:
+total 12
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 aplicaciones
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 conectividad
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 documento
+
+./carpeta/plantilla/aplicaciones:
+total 24
+-rwxrwxrwx 1 juangh juangh  1331 mar 26  2015 agregar_aplicacion.html
+-rwxrwxrwx 1 juangh juangh 10221 jul  1  2016 aplicaciones.html
+-rwxrwxrwx 1 juangh juangh  2221 abr  7  2015 editar_aplicacion.html
+-rwxrwxrwx 1 juangh juangh  1986 abr  7  2015 formulario_aplicacion.html
+
+./carpeta/plantilla/conectividad:
+total 40
+-rwxrwxrwx 1 juangh juangh 11480 jul  1  2016 conectividad.html
+-rwxrwxrwx 1 juangh juangh  1372 abr  3  2015 editar_conectividad.html
+-rwxrwxrwx 1 juangh juangh  2268 abr  3  2015 editar_enlace.html
+-rwxrwxrwx 1 juangh juangh  1931 mar 23  2015 editar_web.html
+-rwxrwxrwx 1 juangh juangh  2035 abr  3  2015 formulario_enlace.html
+-rwxrwxrwx 1 juangh juangh  1694 mar 23  2015 formulario_web.html
+-rwxrwxrwx 1 juangh juangh  1578 mar 23  2015 info_enlace.html
+-rwxrwxrwx 1 juangh juangh  1125 mar 23  2015 info_web.html
+
+./carpeta/plantilla/documento:
+total 16
+-rwxrwxrwx 1 juangh juangh 3110 oct 13  2016 documentos.html
+-rwxrwxrwx 1 juangh juangh 1873 oct 13  2016 documentos_subordinados.html
+-rwxrwxrwx 1 juangh juangh 1478 oct 13  2016 editar_documento.html
+-rwxrwxrwx 1 juangh juangh 1232 mar 26  2015 formulario.documento.html
+
+./distribucion:
+total 56
+-rw-r--r-- 1 juangh juangh  523 dic 20  2016 admin.py
+-rw-r--r-- 1 juangh juangh 1174 feb  8  2017 admin.pyc
+-rw-r--r-- 1 juangh juangh  995 dic 20  2016 forms.py
+-rw-r--r-- 1 juangh juangh 1753 feb  8  2017 forms.pyc
+-rw-r--r-- 1 juangh juangh    0 ago 27  2016 __init__.py
+-rw-r--r-- 1 juangh juangh  121 ago 27  2016 __init__.pyc
+-rw-r--r-- 1 juangh juangh 1342 dic 20  2016 models.py
+-rw-r--r-- 1 juangh juangh 2465 dic 20  2016 models.pyc
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 original
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rw-r--r-- 1 juangh juangh   60 ago 27  2016 tests.py
+-rw-r--r-- 1 juangh juangh 4765 dic 21  2016 views.py
+-rw-r--r-- 1 juangh juangh 5796 feb  8  2017 views.pyc
+
+./distribucion/original:
+total 16
+-rw-r--r-- 1 juangh juangh 63 dic 20  2016 admin.py
+-rw-r--r-- 1 juangh juangh  0 dic 20  2016 __init__.py
+-rw-r--r-- 1 juangh juangh 57 dic 20  2016 models.py
+-rw-r--r-- 1 juangh juangh 60 dic 20  2016 tests.py
+-rw-r--r-- 1 juangh juangh 63 dic 20  2016 views.py
+
+./distribucion/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 movimiento
+
+./distribucion/plantilla/movimiento:
+total 28
+-rw-r--r-- 1 juangh juangh 4261 dic 20  2016 agregar.html
+-rw-r--r-- 1 juangh juangh 3405 dic 20  2016 carta.html
+-rw-r--r-- 1 juangh juangh 3176 dic 21  2016 editar.html
+-rw-r--r-- 1 juangh juangh 2681 dic 20  2016 info.html
+-rw-r--r-- 1 juangh juangh 3368 dic 20  2016 inicio.html
+-rw-r--r-- 1 juangh juangh 2657 dic 21  2016 listar.html
+
+./equipamiento:
+total 240
+-rwxrwxrwx  1 juangh juangh  8139 mar 27  2015 admin.py
+-rwxrwxrwx  1 juangh juangh 18162 abr 25  2016 admin.pyc
+-rwxrwxrwx  1 juangh juangh 13980 mar 27  2015 forms.py
+-rwxrwxrwx  1 juangh juangh 37576 abr 25  2016 forms.pyc
+-rwxrwxrwx  1 juangh juangh     0 mar 27  2015 __init__.py
+-rwxrwxrwx  1 juangh juangh   148 abr 25  2016 __init__.pyc
+-rwxrwxrwx  1 juangh juangh 31755 mar 27  2015 models.py
+-rwxrwxrwx  1 juangh juangh 44054 abr 25  2016 models.pyc
+drwxr-xr-x 13 juangh juangh  4096 ene 24  2017 plantilla
+drwxr-xr-x  3 juangh juangh  4096 ene 24  2017 plantilla1
+-rwxrwxrwx  1 juangh juangh    60 mar 27  2015 tests.py
+-rwxrwxrwx  1 juangh juangh 11416 mar 27  2015 views1.py
+-rwxrwxrwx  1 juangh juangh 26461 oct 13  2016 views.py
+-rwxrwxrwx  1 juangh juangh 23424 oct 13  2016 views.pyc
+
+./equipamiento/plantilla:
+total 64
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 ap
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 camara
+-rwxrwxrwx 1 juangh juangh  868 mar 27  2015 done.html
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 equipamiento
+-rwxrwxrwx 1 juangh juangh 3772 feb 20  2015 equipamiento.html
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 formtools
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 impresora
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 pc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 q
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 raton
+-rwxrwxrwx 1 juangh juangh 3657 feb 20  2015 registro_monitor.html
+-rwxrwxrwx 1 juangh juangh 3906 feb 24  2015 registro_pc.html
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 switch
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 teclado
+-rwxrwxrwx 1 juangh juangh 3094 feb 20  2015 tipoequipo.html
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 ups
+
+./equipamiento/plantilla/ap:
+total 12
+-rwxrwxrwx 1 juangh juangh 1444 mar 27  2015 editar_ap.html
+-rwxrwxrwx 1 juangh juangh 1391 mar 27  2015 info_ap.html
+-rwxrwxrwx 1 juangh juangh 1499 mar 27  2015 registro_ap.html
+
+./equipamiento/plantilla/camara:
+total 12
+-rwxrwxrwx 1 juangh juangh 1520 mar 27  2015 editar_camara.html
+-rwxrwxrwx 1 juangh juangh 1415 mar 27  2015 info_camara.html
+-rwxrwxrwx 1 juangh juangh 1511 mar 27  2015 registro_camara.html
+
+./equipamiento/plantilla/equipamiento:
+total 132
+-rwxrwxrwx 1 juangh juangh   205 mar 27  2015 comun_equipamiento.html
+-rwxrwxrwx 1 juangh juangh 31600 jul  1  2016 equipamiento.html
+-rwxrwxrwx 1 juangh juangh 21091 jul  1  2016 listar_equipamiento.html
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 q
+-rwxrwxrwx 1 juangh juangh  1319 feb 25  2015 registro_ap.html
+-rwxrwxrwx 1 juangh juangh  1511 feb 25  2015 registro_camara.html
+-rwxrwxrwx 1 juangh juangh  1334 feb 25  2015 registro_kb.html
+-rwxrwxrwx 1 juangh juangh  3657 feb 24  2015 registro_monitor.html
+-rwxrwxrwx 1 juangh juangh 17634 feb 24  2015 registro_pc_columna.html
+-rwxrwxrwx 1 juangh juangh  8906 feb 25  2015 registro_pc.html
+-rwxrwxrwx 1 juangh juangh  3805 feb 24  2015 registro_pc_original.html
+-rwxrwxrwx 1 juangh juangh  1330 feb 25  2015 registro_raton.html
+-rwxrwxrwx 1 juangh juangh  1331 feb 25  2015 registro_switch.html
+-rwxrwxrwx 1 juangh juangh  1322 feb 25  2015 registro_ups.html
+-rwxrwxrwx 1 juangh juangh  3094 feb 24  2015 tipoequipo.html
+
+./equipamiento/plantilla/equipamiento/q:
+total 52
+-rwxrwxrwx 1 juangh juangh  7375 jul  1  2016 ap.html
+-rwxrwxrwx 1 juangh juangh  3657 feb 18  2015 registro_monitor.html
+-rwxrwxrwx 1 juangh juangh 17634 feb 21  2015 registro_pc_columna.html
+-rwxrwxrwx 1 juangh juangh  3894 feb 24  2015 registro_pc_original.html
+-rwxrwxrwx 1 juangh juangh  8872 feb 24  2015 registro_pc_otro.html
+-rwxrwxrwx 1 juangh juangh  3183 feb 24  2015 tipoequipo.html
+
+./equipamiento/plantilla/formtools:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 wizard
+
+./equipamiento/plantilla/formtools/wizard:
+total 4
+-rwxrwxrwx 1 juangh juangh 1679 mar 27  2015 wizard_form.html
+
+./equipamiento/plantilla/impresora:
+total 12
+-rwxrwxrwx 1 juangh juangh 1577 mar 27  2015 editar_impresora.html
+-rwxrwxrwx 1 juangh juangh 1433 mar 27  2015 info_impresora.html
+-rwxrwxrwx 1 juangh juangh 1527 mar 27  2015 registro_impresora.html
+
+./equipamiento/plantilla/pc:
+total 24
+-rwxrwxrwx 1 juangh juangh 2040 mar 27  2015 agregar_pc.html
+-rwxrwxrwx 1 juangh juangh 2031 mar 27  2015 editar_pc.html
+-rwxrwxrwx 1 juangh juangh 1430 mar 27  2015 info_pc.html
+-rwxrwxrwx 1 juangh juangh 8407 mar 27  2015 registro_pc.html
+
+./equipamiento/plantilla/q:
+total 148
+-rwxrwxrwx 1 juangh juangh  7375 jul  1  2016 ap.html
+drwxr-xr-x 3 juangh juangh  4096 ene 24  2017 equipamiento
+-rwxrwxrwx 1 juangh juangh 31590 jul  1  2016 equipamiento.html
+-rwxrwxrwx 1 juangh juangh  1342 mar 27  2015 registro_ap.html
+-rwxrwxrwx 1 juangh juangh  1534 mar 27  2015 registro_camara.html
+-rwxrwxrwx 1 juangh juangh  1357 mar 27  2015 registro_kb.html
+-rwxrwxrwx 1 juangh juangh  3657 mar 27  2015 registro_monitor.html
+-rwxrwxrwx 1 juangh juangh  8929 mar 27  2015 registro_pc1.html
+-rwxrwxrwx 1 juangh juangh  8929 mar 27  2015 registro_pc2.html
+-rwxrwxrwx 1 juangh juangh 17634 mar 27  2015 registro_pc_columna.html
+-rwxrwxrwx 1 juangh juangh  8428 mar 27  2015 registro_pc.html
+-rwxrwxrwx 1 juangh juangh  3894 mar 27  2015 registro_pc_original.html
+-rwxrwxrwx 1 juangh juangh  8895 mar 27  2015 registro_pc_otro.html
+-rwxrwxrwx 1 juangh juangh  1353 mar 27  2015 registro_raton.html
+-rwxrwxrwx 1 juangh juangh  1354 mar 27  2015 registro_switch.html
+-rwxrwxrwx 1 juangh juangh  1345 mar 27  2015 registro_ups.html
+-rwxrwxrwx 1 juangh juangh  3183 mar 27  2015 tipoequipo.html
+
+./equipamiento/plantilla/q/equipamiento:
+total 116
+-rwxrwxrwx 1 juangh juangh   205 mar 27  2015 comun_equipamiento.html
+-rwxrwxrwx 1 juangh juangh 31590 jul  1  2016 equipamiento.html
+-rwxrwxrwx 1 juangh juangh 15997 jul  1  2016 listar_equipamiento.html
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 q
+-rwxrwxrwx 1 juangh juangh  1342 mar 27  2015 registro_ap.html
+-rwxrwxrwx 1 juangh juangh  1534 mar 27  2015 registro_camara.html
+-rwxrwxrwx 1 juangh juangh  1357 mar 27  2015 registro_kb.html
+-rwxrwxrwx 1 juangh juangh  8929 mar 27  2015 registro_pc1.html
+-rwxrwxrwx 1 juangh juangh  8929 mar 27  2015 registro_pc2.html
+-rwxrwxrwx 1 juangh juangh  8428 mar 27  2015 registro_pc.html
+-rwxrwxrwx 1 juangh juangh  1353 mar 27  2015 registro_raton.html
+-rwxrwxrwx 1 juangh juangh  1354 mar 27  2015 registro_switch.html
+-rwxrwxrwx 1 juangh juangh  1345 mar 27  2015 registro_ups.html
+
+./equipamiento/plantilla/q/equipamiento/q:
+total 52
+-rwxrwxrwx 1 juangh juangh  7375 jul  1  2016 ap.html
+-rwxrwxrwx 1 juangh juangh  3657 mar 27  2015 registro_monitor.html
+-rwxrwxrwx 1 juangh juangh 17634 mar 27  2015 registro_pc_columna.html
+-rwxrwxrwx 1 juangh juangh  3894 mar 27  2015 registro_pc_original.html
+-rwxrwxrwx 1 juangh juangh  8895 mar 27  2015 registro_pc_otro.html
+-rwxrwxrwx 1 juangh juangh  3183 mar 27  2015 tipoequipo.html
+
+./equipamiento/plantilla/raton:
+total 12
+-rwxrwxrwx 1 juangh juangh 1501 mar 27  2015 editar_raton.html
+-rwxrwxrwx 1 juangh juangh 1409 mar 27  2015 info_raton.html
+-rwxrwxrwx 1 juangh juangh 1511 mar 27  2015 registro_raton.html
+
+./equipamiento/plantilla/switch:
+total 12
+-rwxrwxrwx 1 juangh juangh 1520 mar 27  2015 editar_switch.html
+-rwxrwxrwx 1 juangh juangh 1415 mar 27  2015 info_switch.html
+-rwxrwxrwx 1 juangh juangh 1515 mar 27  2015 registro_switch.html
+
+./equipamiento/plantilla/teclado:
+total 12
+-rwxrwxrwx 1 juangh juangh 1539 mar 27  2015 editar_teclado.html
+-rwxrwxrwx 1 juangh juangh 1421 mar 27  2015 info_teclado.html
+-rwxrwxrwx 1 juangh juangh 1519 mar 27  2015 registro_teclado.html
+
+./equipamiento/plantilla/ups:
+total 12
+-rwxrwxrwx 1 juangh juangh 1463 mar 27  2015 editar_ups.html
+-rwxrwxrwx 1 juangh juangh 1397 mar 27  2015 info_ups.html
+-rwxrwxrwx 1 juangh juangh 1503 mar 27  2015 registro_ups.html
+
+./equipamiento/plantilla1:
+total 4
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 equipamiento
+
+./equipamiento/plantilla1/equipamiento:
+total 80
+-rwxrwxrwx 1 juangh juangh 37903 jul  1  2016 equipamiento.html
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 q
+-rwxrwxrwx 1 juangh juangh  1319 feb 25  2015 registro_ap.html
+-rwxrwxrwx 1 juangh juangh  1511 feb 25  2015 registro_camara.html
+-rwxrwxrwx 1 juangh juangh  1334 feb 25  2015 registro_kb.html
+-rwxrwxrwx 1 juangh juangh  8906 feb 25  2015 registro_pc.html
+-rwxrwxrwx 1 juangh juangh  1330 feb 25  2015 registro_raton.html
+-rwxrwxrwx 1 juangh juangh  1331 feb 25  2015 registro_switch.html
+-rwxrwxrwx 1 juangh juangh  1322 feb 25  2015 registro_ups.html
+
+./equipamiento/plantilla1/equipamiento/q:
+total 52
+-rwxrwxrwx 1 juangh juangh  7375 jul  1  2016 ap.html
+-rwxrwxrwx 1 juangh juangh  3657 feb 18  2015 registro_monitor.html
+-rwxrwxrwx 1 juangh juangh 17634 feb 21  2015 registro_pc_columna.html
+-rwxrwxrwx 1 juangh juangh  3894 feb 24  2015 registro_pc_original.html
+-rwxrwxrwx 1 juangh juangh  8872 feb 24  2015 registro_pc_otro.html
+-rwxrwxrwx 1 juangh juangh  3183 feb 24  2015 tipoequipo.html
+
+./errores:
+total 36
+-rwxrwxrwx 1 juangh juangh   63 may 10  2016 admin.py
+-rwxrwxrwx 1 juangh juangh  193 jun 30  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh    0 may 10  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh  136 jun 30  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh   57 may 10  2016 models.py
+-rwxrwxrwx 1 juangh juangh  190 jun 30  2016 models.pyc
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 may 10  2016 tests.py
+-rwxrwxrwx 1 juangh juangh  266 may 13  2016 views.py
+-rwxrwxrwx 1 juangh juangh  597 may 13  2016 views.pyc
+
+./errores/plantilla:
+total 16
+-rwxrwxrwx 1 juangh juangh  111 may 10  2016 400.html
+-rwxrwxrwx 1 juangh juangh  111 may 10  2016 403.html
+-rwxrwxrwx 1 juangh juangh 2617 may 12  2016 404.html
+-rwxrwxrwx 1 juangh juangh  111 may 10  2016 500.html
+
+./finanzas:
+total 36
+-rwxrwxrwx 1 juangh juangh  268 ene 26  2016 admin.py
+-rwxrwxrwx 1 juangh juangh  761 abr 25  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh    0 ene 26  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh  144 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh 1488 ene 26  2016 models.py
+-rwxrwxrwx 1 juangh juangh 2485 abr 25  2016 models.pyc
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 ene 26  2016 tests.py
+-rwxrwxrwx 1 juangh juangh 1557 oct 13  2016 views.py
+-rwxrwxrwx 1 juangh juangh 1567 ene 26  2016 views.pyc
+
+./finanzas/plantilla:
+total 16
+-rwxrwxrwx 1 juangh juangh 1478 mar 20  2015 editar_retiro.html
+-rwxrwxrwx 1 juangh juangh 1232 mar 25  2015 formulario_retiros.html
+-rwxrwxrwx 1 juangh juangh 3165 jul  1  2016 retiros.html
+-rwxrwxrwx 1 juangh juangh 1873 jul  1  2016 retiros_subordinados.html
+
+./galeria:
+total 44
+-rwxrwxrwx 1 juangh juangh  262 mar 14  2015 admin.py
+-rwxrwxrwx 1 juangh juangh  748 abr 25  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  520 mar 14  2015 forms.py
+-rwxrwxrwx 1 juangh juangh 1115 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 mar 14  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh  143 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh 1201 mar 20  2015 models.py
+-rwxrwxrwx 1 juangh juangh 2030 abr 25  2016 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 mar 14  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 3076 oct 13  2016 views.py
+-rwxrwxrwx 1 juangh juangh 3650 oct 13  2016 views.pyc
+
+./galeria/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 galeria
+
+./galeria/plantilla/galeria:
+total 12
+-rwxrwxrwx 1 juangh juangh 1060 oct 13  2016 formulario.galeria.html
+-rwxrwxrwx 1 juangh juangh 2311 oct 13  2016 galeria.html
+-rwxrwxrwx 1 juangh juangh 2566 oct 13  2016 galeria.unidades.sub.html
+
+./incinerador:
+total 12
+-rwxr-xr-x 1 juangh juangh 3781 ene 30  2017 formulario.incinerador.html
+-rwxr-xr-x 1 juangh juangh 5520 ene 30  2017 incinerador.html
+
+./inspeccion:
+total 136
+-rwxrwxrwx 1 juangh juangh   801 abr 14  2015 admin.py
+-rwxrwxrwx 1 juangh juangh  1725 abr 25  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh   884 may  8  2015 forms.py
+-rwxrwxrwx 1 juangh juangh  1918 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh     0 abr 14  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh   146 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  2750 may 15  2015 models.py
+-rwxrwxrwx 1 juangh juangh  4274 abr 25  2016 models.pyc
+drwxr-xr-x 4 juangh juangh  4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh    60 abr 14  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 59251 nov 25  2016 views.py
+-rw-r--r-- 1 juangh juangh 33683 nov 25  2016 views.pyc
+
+./inspeccion/plantilla:
+total 8
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 deficiencias
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 visita
+
+./inspeccion/plantilla/deficiencias:
+total 32
+-rwxrwxrwx 1 juangh juangh 8435 oct 13  2016 deficiencias.html
+-rwxrwxrwx 1 juangh juangh 1793 oct 13  2016 deficiencias_unidad.html
+-rwxrwxrwx 1 juangh juangh 8470 oct 13  2016 editar_deficiencias.html
+-rwxrwxrwx 1 juangh juangh 2382 abr 20  2015 ver_deficiencia.html
+
+./inspeccion/plantilla/visita:
+total 80
+-rwxrwxrwx 1 juangh juangh 34668 jul  1  2016 editar_guia_inspeccion.html
+-rwxrwxrwx 1 juangh juangh 31483 jul  1  2016 guia_inspeccion.html
+-rwxrwxrwx 1 juangh juangh  2636 oct 13  2016 info_visita.html
+-rwxrwxrwx 1 juangh juangh  4794 oct 13  2016 inspeccion_unidades.html
+
+./investigacion:
+total 52
+-rwxrwxrwx 1 juangh juangh 1190 feb  8  2017 admin.py
+-rw-r--r-- 1 juangh juangh 2612 feb  8  2017 admin.pyc
+-rw-r--r-- 1 juangh juangh  707 feb  9  2017 forms.py
+-rw-r--r-- 1 juangh juangh 1217 feb  9  2017 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 feb  8  2017 __init__.py
+-rw-r--r-- 1 juangh juangh  140 feb  8  2017 __init__.pyc
+-rwxrwxrwx 1 juangh juangh 4275 feb  8  2017 models.py
+-rw-r--r-- 1 juangh juangh 6057 feb  8  2017 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 feb  8  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 feb  8  2017 tests.py
+-rwxrwxrwx 1 juangh juangh 3189 feb  8  2017 views.py
+-rw-r--r-- 1 juangh juangh 3703 feb  8  2017 views.pyc
+
+./investigacion/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 feb  9  2017 publicaciones
+
+./investigacion/plantilla/publicaciones:
+total 12
+-rwxr-xr-x 1 juangh juangh 4110 feb  9  2017 formulario.publicaciones.html
+-rwxr-xr-x 1 juangh juangh 2836 feb  8  2017 publicaciones.html
+
+./lavanderia:
+total 44
+-rwxrwxrwx 1 juangh juangh  337 jul  1  2016 admin.py
+-rwxrwxrwx 1 juangh juangh  915 jul  1  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  471 jun 28  2016 forms.py
+-rwxrwxrwx 1 juangh juangh 1012 jun 28  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 abr 22  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh  151 jun 28  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  660 jul  1  2016 models.py
+-rwxrwxrwx 1 juangh juangh 1336 jul  1  2016 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 abr 22  2016 tests.py
+-rwxrwxrwx 1 juangh juangh 1721 oct 13  2016 views.py
+-rw-r--r-- 1 juangh juangh 2562 nov  5  2016 views.pyc
+
+./lavanderia/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 reporte
+
+./lavanderia/plantilla/reporte:
+total 12
+-rwxrwxrwx 1 juangh juangh 3538 jun 28  2016 formulario.reporte.html
+-rwxrwxrwx 1 juangh juangh  375 jun 28  2016 inicio.html
+-rwxrwxrwx 1 juangh juangh 2951 oct 13  2016 reporte.html
+
+./mensajes:
+total 60
+-rwxrwxrwx 1 juangh juangh  490 feb 27  2015 admin.py
+-rwxrwxrwx 1 juangh juangh 1235 abr 25  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh 1308 feb 26  2015 consultas importantes.txt
+-rwxrwxrwx 1 juangh juangh  739 mar 19  2015 forms.py
+-rwxrwxrwx 1 juangh juangh 1463 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 feb 19  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh  144 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh 1784 may 12  2016 models.py
+-rwxrwxrwx 1 juangh juangh 2890 jun 30  2016 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 feb 19  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 9185 oct 13  2016 views.py
+-rwxrwxrwx 1 juangh juangh 6987 oct 13  2016 views.pyc
+
+./mensajes/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 mensajes
+
+./mensajes/plantilla/mensajes:
+total 36
+-rwxrwxrwx 1 juangh juangh  4039 feb 25  2015 bandeja_entrada1.html
+-rwxrwxrwx 1 juangh juangh 17097 may  8  2015 bandeja_entrada.html
+-rwxrwxrwx 1 juangh juangh  5130 feb 25  2015 formulario_mensajes.html
+-rwxrwxrwx 1 juangh juangh  3524 feb 25  2015 ver_mensajes.html
+
+./presupuesto:
+total 52
+-rwxrwxrwx 1 juangh juangh  561 feb 18  2016 admin.py
+-rwxrwxrwx 1 juangh juangh 1092 abr 25  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  737 feb 16  2016 forms.py
+-rwxrwxrwx 1 juangh juangh 1239 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 feb 16  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh  147 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh 1411 feb 17  2016 models.py
+-rwxrwxrwx 1 juangh juangh 2272 abr 25  2016 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 feb 16  2016 tests.py
+-rwxrwxrwx 1 juangh juangh 5077 oct 13  2016 views.py
+-rwxrwxrwx 1 juangh juangh 5461 oct 13  2016 views.pyc
+
+./presupuesto/plantilla:
+total 28
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 Carpeta sin t+-ítulo
+-rwxrwxrwx 1 juangh juangh 7328 feb 18  2016 formulario.presupuesto.html
+-rwxrwxrwx 1 juangh juangh 1599 jul  1  2016 info_servicio.html
+-rwxrwxrwx 1 juangh juangh 6457 jul  1  2016 presupuesto.html
+-rwxrwxrwx 1 juangh juangh 2723 jul  1  2016 presupuesto_unidades_sub.html
+
+./presupuesto/plantilla/Carpeta sin t+-ítulo:
+total 8
+-rwxrwxrwx 1 juangh juangh 5038 oct 13  2016 views.py
+
+./Proyecto:
+total 104
+drwxr-xr-x  5 juangh juangh  4096 ene 24  2017 comun
+-rwxrwxrwx  1 juangh juangh     0 feb  6  2015 __init__.py
+-rwxrwxrwx  1 juangh juangh   144 abr 25  2016 __init__.pyc
+-rwxrwxrwx  1 juangh juangh  5083 mar  8  2017 settings.py
+-rw-r--r--  1 juangh juangh  4437 mar  8  2017 settings.pyc
+-rwxrwxrwx  1 juangh juangh  4177 abr 30  2015 settings.py.viejo
+drwxr-xr-x 10 juangh juangh  4096 ene 24  2017 static
+-rwxrwxrwx  1 juangh juangh 17477 feb 17  2017 urls.py
+-rwxrwxrwx  1 juangh juangh  3873 mar 27  2015 urls.py.1
+-rw-r--r--  1 juangh juangh 14756 feb 17  2017 urls.pyc
+-rwxrwxrwx  1 juangh juangh  8232 abr 30  2015 urls.py.funcionando
+-rwxrwxrwx  1 juangh juangh  7492 mar 28  2015 urls.py.save
+-rwxrwxrwx  1 juangh juangh   447 oct 13  2016 wsgi.py
+-rw-r--r--  1 juangh juangh   684 feb  8  2017 wsgi.pyc
+
+./Proyecto/comun:
+total 12
+drwxr-xr-x 2 juangh juangh 4096 feb 17  2017 base
+drwxr-xr-x 9 juangh juangh 4096 ene 24  2017 static_root
+drwxr-xr-x 4 juangh juangh 4096 ene 24  2017 templates
+
+./Proyecto/comun/base:
+total 48
+-rwxrwxrwx 1 juangh juangh 10943 dic 20  2016 base.html
+-rwxrwxrwx 1 juangh juangh  2357 mar 30  2015 cambiar_clave.html
+-rwxrwxrwx 1 juangh juangh   691 oct  7  2015 generico.html
+-rwxrwxrwx 1 juangh juangh  1513 oct 13  2016 login.html
+-rwxrwxrwx 1 juangh juangh 10561 feb 17  2017 menu_lateral.html
+-rwxrwxrwx 1 juangh juangh  1312 oct  7  2015 modal.html
+-rwxrwxrwx 1 juangh juangh  4309 ene 18  2017 portada.html
+
+./Proyecto/comun/static_root:
+total 520
+drwxr-xr-x 5 juangh juangh  4096 ene 24  2017 admin
+drwxr-xr-x 7 juangh juangh  4096 ene 24  2017 assets
+drwxr-xr-x 7 juangh juangh  4096 ene 24  2017 assets1
+-rwxrwxrwx 1 juangh juangh  9921 may 12  2016 beyond.min.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 css
+drwxr-xr-x 3 juangh juangh  4096 ene 24  2017 demo-style-switcher
+-rwxrwxrwx 1 juangh juangh 19761 abr 27  2015 esculapio.png
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 grafico
+-rwxrwxrwx 1 juangh juangh 93435 may 12  2016 jquery-1.8.2.min.js
+-rwxrwxrwx 1 juangh juangh 83487 may 12  2016 jquery-2.0.3.min.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 mapas
+-rwxrwxrwx 1 juangh juangh 28355 may 12  2016 morris-0.4.1.min.js
+-rwxrwxrwx 1 juangh juangh  4719 may 12  2016 morris-init.js
+-rwxrwxrwx 1 juangh juangh 60593 may 12  2016 morris.js
+-rwxrwxrwx 1 juangh juangh  3881 may 27  2016 no.png
+-rwxrwxrwx 1 juangh juangh 86446 may 12  2016 raphael-2.0.2.min.js
+-rwxrwxrwx 1 juangh juangh 90647 may 12  2016 raphael-min.js
+-rwxrwxrwx 1 juangh juangh  3530 may 27  2016 si.png
+
+./Proyecto/comun/static_root/admin:
+total 12
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 js
+
+./Proyecto/comun/static_root/admin/css:
+total 60
+-rwxrwxrwx 1 juangh juangh 15010 may 10  2016 base.css
+-rwxrwxrwx 1 juangh juangh  5547 may 10  2016 changelists.css
+-rwxrwxrwx 1 juangh juangh   464 may 10  2016 dashboard.css
+-rwxrwxrwx 1 juangh juangh  6181 may 10  2016 forms.css
+-rwxrwxrwx 1 juangh juangh  1126 may 10  2016 ie.css
+-rwxrwxrwx 1 juangh juangh  1000 may 10  2016 login.css
+-rwxrwxrwx 1 juangh juangh  4066 may 10  2016 rtl.css
+-rwxrwxrwx 1 juangh juangh 10922 may 10  2016 widgets.css
+
+./Proyecto/comun/static_root/admin/img:
+total 160
+-rwxrwxrwx 1 juangh juangh   58 may 10  2016 changelist-bg.gif
+-rwxrwxrwx 1 juangh juangh   75 may 10  2016 changelist-bg_rtl.gif
+-rwxrwxrwx 1 juangh juangh  199 may 10  2016 chooser-bg.gif
+-rwxrwxrwx 1 juangh juangh  212 may 10  2016 chooser_stacked-bg.gif
+-rwxrwxrwx 1 juangh juangh  844 may 10  2016 default-bg.gif
+-rwxrwxrwx 1 juangh juangh  843 may 10  2016 default-bg-reverse.gif
+-rwxrwxrwx 1 juangh juangh   45 may 10  2016 deleted-overlay.gif
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 gis
+-rwxrwxrwx 1 juangh juangh  119 may 10  2016 icon_addlink.gif
+-rwxrwxrwx 1 juangh juangh  145 may 10  2016 icon_alert.gif
+-rwxrwxrwx 1 juangh juangh  192 may 10  2016 icon_calendar.gif
+-rwxrwxrwx 1 juangh juangh  119 may 10  2016 icon_changelink.gif
+-rwxrwxrwx 1 juangh juangh  390 may 10  2016 icon_clock.gif
+-rwxrwxrwx 1 juangh juangh  181 may 10  2016 icon_deletelink.gif
+-rwxrwxrwx 1 juangh juangh  319 may 10  2016 icon_error.gif
+-rwxrwxrwx 1 juangh juangh  176 may 10  2016 icon-no.gif
+-rwxrwxrwx 1 juangh juangh  667 may 10  2016 icon_searchbox.png
+-rwxrwxrwx 1 juangh juangh  341 may 10  2016 icon_success.gif
+-rwxrwxrwx 1 juangh juangh  130 may 10  2016 icon-unknown.gif
+-rwxrwxrwx 1 juangh juangh  299 may 10  2016 icon-yes.gif
+-rwxrwxrwx 1 juangh juangh  477 may 10  2016 inline-delete-8bit.png
+-rwxrwxrwx 1 juangh juangh  781 may 10  2016 inline-delete.png
+-rwxrwxrwx 1 juangh juangh  447 may 10  2016 inline-restore-8bit.png
+-rwxrwxrwx 1 juangh juangh  623 may 10  2016 inline-restore.png
+-rwxrwxrwx 1 juangh juangh  102 may 10  2016 inline-splitter-bg.gif
+-rwxrwxrwx 1 juangh juangh  273 may 10  2016 nav-bg.gif
+-rwxrwxrwx 1 juangh juangh  116 may 10  2016 nav-bg-grabber.gif
+-rwxrwxrwx 1 juangh juangh  186 may 10  2016 nav-bg-reverse.gif
+-rwxrwxrwx 1 juangh juangh  265 may 10  2016 nav-bg-selected.gif
+-rwxrwxrwx 1 juangh juangh 2771 may 10  2016 selector-icons.gif
+-rwxrwxrwx 1 juangh juangh  552 may 10  2016 selector-search.gif
+-rwxrwxrwx 1 juangh juangh  369 may 10  2016 sorting-icons.gif
+-rwxrwxrwx 1 juangh juangh  197 may 10  2016 tool-left.gif
+-rwxrwxrwx 1 juangh juangh  203 may 10  2016 tool-left_over.gif
+-rwxrwxrwx 1 juangh juangh  198 may 10  2016 tool-right.gif
+-rwxrwxrwx 1 juangh juangh  200 may 10  2016 tool-right_over.gif
+-rwxrwxrwx 1 juangh juangh  932 may 10  2016 tooltag-add.gif
+-rwxrwxrwx 1 juangh juangh  336 may 10  2016 tooltag-add_over.gif
+-rwxrwxrwx 1 juangh juangh  351 may 10  2016 tooltag-arrowright.gif
+-rwxrwxrwx 1 juangh juangh  354 may 10  2016 tooltag-arrowright_over.gif
+
+./Proyecto/comun/static_root/admin/img/gis:
+total 8
+-rwxrwxrwx 1 juangh juangh 711 may 10  2016 move_vertex_off.png
+-rwxrwxrwx 1 juangh juangh 506 may 10  2016 move_vertex_on.png
+
+./Proyecto/comun/static_root/admin/js:
+total 472
+-rwxrwxrwx 1 juangh juangh   4888 may 10  2016 actions.js
+-rwxrwxrwx 1 juangh juangh   3146 may 10  2016 actions.min.js
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 admin
+-rwxrwxrwx 1 juangh juangh   5023 may 10  2016 calendar.js
+-rwxrwxrwx 1 juangh juangh    941 may 10  2016 collapse.js
+-rwxrwxrwx 1 juangh juangh    649 may 10  2016 collapse.min.js
+-rwxrwxrwx 1 juangh juangh   7152 may 10  2016 core.js
+-rwxrwxrwx 1 juangh juangh  11463 may 10  2016 inlines.js
+-rwxrwxrwx 1 juangh juangh   4495 may 10  2016 inlines.min.js
+-rwxrwxrwx 1 juangh juangh    333 may 10  2016 jquery.init.js
+-rwxrwxrwx 1 juangh juangh 277978 may 10  2016 jquery.js
+-rwxrwxrwx 1 juangh juangh  92633 may 10  2016 jquery.min.js
+-rwxrwxrwx 1 juangh juangh   1095 may 10  2016 LICENSE-JQUERY.txt
+-rwxrwxrwx 1 juangh juangh   1225 may 10  2016 prepopulate.js
+-rwxrwxrwx 1 juangh juangh    373 may 10  2016 prepopulate.min.js
+-rwxrwxrwx 1 juangh juangh   4162 may 10  2016 SelectBox.js
+-rwxrwxrwx 1 juangh juangh  10046 may 10  2016 SelectFilter2.js
+-rwxrwxrwx 1 juangh juangh   2544 may 10  2016 timeparse.js
+-rwxrwxrwx 1 juangh juangh   5725 may 10  2016 urlify.js
+
+./Proyecto/comun/static_root/admin/js/admin:
+total 20
+-rwxrwxrwx 1 juangh juangh 15174 may 10  2016 DateTimeShortcuts.js
+-rwxrwxrwx 1 juangh juangh  3368 may 10  2016 RelatedObjectLookups.js
+
+./Proyecto/comun/static_root/assets:
+total 20
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fonts
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 ico
+drwxr-xr-x 4 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 6 juangh juangh 4096 ene 24  2017 js
+
+./Proyecto/comun/static_root/assets/css:
+total 484
+-rwxrwxrwx 1 juangh juangh 119796 may 10  2016 bootstrap.min.css
+-rwxrwxrwx 1 juangh juangh  21987 may 10  2016 font-awesome.min.css
+-rwxrwxrwx 1 juangh juangh 344323 may 10  2016 main.min.css
+
+./Proyecto/comun/static_root/assets/fonts:
+total 2272
+-rwxrwxrwx 1 juangh juangh  56006 may 10  2016 fontawesome-webfont.eot
+-rwxrwxrwx 1 juangh juangh  56006 may 10  2016 fontawesome-webfont.eot_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 287526 may 10  2016 fontawesome-webfont.svg
+-rwxrwxrwx 1 juangh juangh 287007 may 10  2016 fontawesome-webfont.svg_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 112160 may 10  2016 fontawesome-webfont.ttf
+-rwxrwxrwx 1 juangh juangh 112160 may 10  2016 fontawesome-webfont.ttf_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  65452 may 10  2016 fontawesome-webfont.woff
+-rwxrwxrwx 1 juangh juangh  65452 may 10  2016 fontawesome-webfont.woff_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  20335 may 10  2016 glyphicons-halflings-regular.eot
+-rwxrwxrwx 1 juangh juangh  63155 may 10  2016 glyphicons-halflings-regular.svg
+-rwxrwxrwx 1 juangh juangh  41280 may 10  2016 glyphicons-halflings-regular.ttf
+-rwxrwxrwx 1 juangh juangh  23320 may 10  2016 glyphicons-halflings-regular.woff
+-rwxrwxrwx 1 juangh juangh  28810 may 10  2016 lato-bol-webfont.eot
+-rwxrwxrwx 1 juangh juangh 255486 may 10  2016 lato-bol-webfont.svg
+-rwxrwxrwx 1 juangh juangh  58300 may 10  2016 lato-bol-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  32376 may 10  2016 lato-bol-webfont.woff
+-rwxrwxrwx 1 juangh juangh  27402 may 10  2016 lato-lig-webfont.eot
+-rwxrwxrwx 1 juangh juangh 241542 may 10  2016 lato-lig-webfont.svg
+-rwxrwxrwx 1 juangh juangh  56648 may 10  2016 lato-lig-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31000 may 10  2016 lato-lig-webfont.woff
+-rwxrwxrwx 1 juangh juangh  28215 may 10  2016 lato-reg-webfont.eot
+-rwxrwxrwx 1 juangh juangh 242438 may 10  2016 lato-reg-webfont.svg
+-rwxrwxrwx 1 juangh juangh  57484 may 10  2016 lato-reg-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31796 may 10  2016 lato-reg-webfont.woff
+
+./Proyecto/comun/static_root/assets/ico:
+total 208
+-rwxrwxrwx 1 juangh juangh   8271 may 10  2016 django.png
+-rwxrwxrwx 1 juangh juangh   1307 may 10  2016 favicon.png
+-rwxrwxrwx 1 juangh juangh   3293 may 10  2016 kingadmin-favicon114x114.png
+-rwxrwxrwx 1 juangh juangh   4022 may 10  2016 kingadmin-favicon144x144.png
+-rwxrwxrwx 1 juangh juangh   2037 may 10  2016 kingadmin-favicon57x57.png
+-rwxrwxrwx 1 juangh juangh   2357 may 10  2016 kingadmin-favicon72x72.png
+-rwxrwxrwx 1 juangh juangh 177194 may 10  2016 Python-logo-notext.svg.png
+
+./Proyecto/comun/static_root/assets/img:
+total 200
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 bootstrap-colorpicker
+-rwxrwxrwx 1 juangh juangh   509 may 10  2016 clear.png
+-rwxrwxrwx 1 juangh juangh   961 may 10  2016 diagonal-stripe.png_1369651034
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 gallery
+-rwxrwxrwx 1 juangh juangh  4880 may 10  2016 gritter.png_1379032210
+-rwxrwxrwx 1 juangh juangh    43 may 10  2016 ie-spacer.gif_1379032210
+-rwxrwxrwx 1 juangh juangh  2363 may 10  2016 kingadmin-logo.png
+-rwxrwxrwx 1 juangh juangh  2322 may 10  2016 kingadmin-logo-white.png
+-rwxrwxrwx 1 juangh juangh  1849 may 10  2016 loading.gif
+-rwxrwxrwx 1 juangh juangh  4041 may 10  2016 logo.png
+-rwxrwxrwx 1 juangh juangh  5728 may 10  2016 logo.svg
+-rwxrwxrwx 1 juangh juangh 30792 may 10  2016 profile-avatar.png
+-rwxrwxrwx 1 juangh juangh 41668 may 10  2016 search-result-img.png
+-rwxrwxrwx 1 juangh juangh  1849 may 10  2016 select2-spinner.gif_1398901838
+-rwxrwxrwx 1 juangh juangh  9108 may 10  2016 user1.png
+-rwxrwxrwx 1 juangh juangh 11313 may 10  2016 user2.png
+-rwxrwxrwx 1 juangh juangh 12210 may 10  2016 user3.png
+-rwxrwxrwx 1 juangh juangh 12017 may 10  2016 user4.png
+-rwxrwxrwx 1 juangh juangh 11337 may 10  2016 user5.png
+-rwxrwxrwx 1 juangh juangh  4327 may 10  2016 user-avatar.png
+
+./Proyecto/comun/static_root/assets/img/bootstrap-colorpicker:
+total 28
+-rwxrwxrwx 1 juangh juangh 3635 may 10  2016 alpha-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 3271 may 10  2016 alpha.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2837 may 10  2016 hue-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2972 may 10  2016 hue.png_1385667212
+-rwxrwxrwx 1 juangh juangh 8817 may 10  2016 saturation.png_1385667212
+
+./Proyecto/comun/static_root/assets/img/gallery:
+total 824
+-rwxrwxrwx 1 juangh juangh 171995 may 10  2016 bird.jpg
+-rwxrwxrwx 1 juangh juangh  56351 may 10  2016 cafe.jpg
+-rwxrwxrwx 1 juangh juangh  31428 may 10  2016 chair.jpg
+-rwxrwxrwx 1 juangh juangh  59607 may 10  2016 cuba-cup.jpg
+-rwxrwxrwx 1 juangh juangh  35253 may 10  2016 desk2.jpg
+-rwxrwxrwx 1 juangh juangh  27457 may 10  2016 desk.jpg
+-rwxrwxrwx 1 juangh juangh 185305 may 10  2016 fence.jpg
+-rwxrwxrwx 1 juangh juangh  26276 may 10  2016 hand.jpg
+-rwxrwxrwx 1 juangh juangh  30338 may 10  2016 jet-sky.jpg
+-rwxrwxrwx 1 juangh juangh  59591 may 10  2016 kitsune.jpg
+-rwxrwxrwx 1 juangh juangh  54464 may 10  2016 lighthouse.jpg
+-rwxrwxrwx 1 juangh juangh  85980 may 10  2016 mac.jpg
+
+./Proyecto/comun/static_root/assets/js:
+total 84
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 bootstrap
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery-ui
+-rwxrwxrwx  1 juangh juangh 19201 may 10  2016 king-chart-stat.min.js
+-rwxrwxrwx  1 juangh juangh  8201 may 10  2016 king-common.min.js
+-rwxrwxrwx  1 juangh juangh  7073 may 10  2016 king-components.min.js
+-rwxrwxrwx  1 juangh juangh 15892 may 10  2016 king-elements.min.js
+-rwxrwxrwx  1 juangh juangh    95 may 10  2016 king-form-layouts.min.js
+-rwxrwxrwx  1 juangh juangh  2494 may 10  2016 king-page.min.js
+-rwxrwxrwx  1 juangh juangh  4086 jul  1  2016 king-table.min.js
+drwxr-xr-x 35 juangh juangh  4096 ene 24  2017 plugins
+
+./Proyecto/comun/static_root/assets/js/bootstrap:
+total 60
+-rwxrwxrwx 1 juangh juangh 60681 may 10  2016 bootstrap.js
+
+./Proyecto/comun/static_root/assets/js/jquery:
+total 84
+-rwxrwxrwx 1 juangh juangh 83650 may 10  2016 jquery-2.1.0.min.js
+
+./Proyecto/comun/static_root/assets/js/jquery-ui:
+total 220
+-rwxrwxrwx 1 juangh juangh 223871 may 10  2016 jquery-ui-1.10.4.custom.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins:
+total 132
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-colorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-datepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-editable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-multiselect
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-progressbar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-slider
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-switch
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tagsinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-touchspin
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tour
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 datatable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 daterangepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 dropzone
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fullcalendar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 google-map
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jqallrangesliders
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 jqgrid
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-gritter
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mapael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-maskedinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mousewheel
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-simplecolorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-sparkline
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 markdown
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 modernizr
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 moment
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 parsley-validation
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 raphael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 select2
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 stat
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 summernote
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 typeahead
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 wizard
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-colorpicker:
+total 16
+-rwxrwxrwx 1 juangh juangh 15476 may 10  2016 bootstrap-colorpicker.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-datepicker:
+total 48
+-rwxrwxrwx 1 juangh juangh 46821 may 10  2016 bootstrap-datepicker.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-editable:
+total 96
+-rwxrwxrwx 1 juangh juangh  5170 may 10  2016 address.custom.js
+-rwxrwxrwx 1 juangh juangh 75910 may 10  2016 bootstrap-editable.min.js
+-rwxrwxrwx 1 juangh juangh  2396 may 10  2016 demo-mock.js
+-rwxrwxrwx 1 juangh juangh  6825 may 10  2016 jquery.mockjax.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-multiselect:
+total 44
+-rwxrwxrwx 1 juangh juangh 42943 may 10  2016 bootstrap-multiselect.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-progressbar:
+total 8
+-rwxrwxrwx 1 juangh juangh 6069 may 10  2016 bootstrap-progressbar.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-slider:
+total 12
+-rwxrwxrwx 1 juangh juangh 11246 may 10  2016 bootstrap-slider.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-switch:
+total 8
+-rwxrwxrwx 1 juangh juangh 7195 may 10  2016 bootstrap-switch.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-tagsinput:
+total 8
+-rwxrwxrwx 1 juangh juangh 6752 may 10  2016 bootstrap-tagsinput.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-touchspin:
+total 20
+-rwxrwxrwx 1 juangh juangh 19416 may 10  2016 jquery.bootstrap-touchspin.js
+
+./Proyecto/comun/static_root/assets/js/plugins/bootstrap-tour:
+total 28
+-rwxrwxrwx 1 juangh juangh 25287 may 10  2016 bootstrap-tour.custom.js
+
+./Proyecto/comun/static_root/assets/js/plugins/datatable:
+total 88
+-rwxrwxrwx 1 juangh juangh  6865 may 10  2016 dataTables.bootstrap.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 exts
+-rwxrwxrwx 1 juangh juangh 77532 may 10  2016 jquery.dataTables.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/datatable/exts:
+total 72
+-rwxrwxrwx 1 juangh juangh 10500 may 10  2016 dataTables.colReorder.min.js
+-rwxrwxrwx 1 juangh juangh 26180 may 10  2016 dataTables.colVis.bootstrap.js
+-rwxrwxrwx 1 juangh juangh 30729 may 10  2016 dataTables.tableTools.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/daterangepicker:
+total 36
+-rwxrwxrwx 1 juangh juangh 33895 may 10  2016 daterangepicker.js
+
+./Proyecto/comun/static_root/assets/js/plugins/dropzone:
+total 32
+-rwxrwxrwx 1 juangh juangh 30476 may 10  2016 dropzone.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/fullcalendar:
+total 52
+-rwxrwxrwx 1 juangh juangh 51220 may 10  2016 fullcalendar.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/google-map:
+total 4
+-rwxrwxrwx 1 juangh juangh 3281 may 10  2016 google-map.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jqallrangesliders:
+total 48
+-rwxrwxrwx 1 juangh juangh 49080 may 10  2016 jQAllRangeSliders-min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jqgrid:
+total 272
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 i18n
+-rwxrwxrwx 1 juangh juangh   2861 may 10  2016 jquery.jqGrid.fluid.js
+-rwxrwxrwx 1 juangh juangh 269177 may 10  2016 jquery.jqGrid.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jqgrid/i18n:
+total 8
+-rwxrwxrwx 1 juangh juangh 6780 may 10  2016 grid.locale-en.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jquery-gritter:
+total 8
+-rwxrwxrwx 1 juangh juangh 4312 may 10  2016 jquery.gritter.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jquery-mapael:
+total 32
+-rwxrwxrwx 1 juangh juangh 29729 may 10  2016 jquery.mapael.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jquery-maskedinput:
+total 4
+-rwxrwxrwx 1 juangh juangh 3568 may 10  2016 jquery.masked-input.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jquery-mousewheel:
+total 8
+-rwxrwxrwx 1 juangh juangh 4745 may 10  2016 jquery.mousewheel.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jquery-simplecolorpicker:
+total 8
+-rwxrwxrwx 1 juangh juangh 6766 may 10  2016 jquery.simplecolorpicker.js
+
+./Proyecto/comun/static_root/assets/js/plugins/jquery-sparkline:
+total 44
+-rwxrwxrwx 1 juangh juangh 43247 may 10  2016 jquery.sparkline.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/markdown:
+total 92
+-rwxrwxrwx 1 juangh juangh 31239 may 10  2016 bootstrap-markdown.js
+-rwxrwxrwx 1 juangh juangh 50969 may 10  2016 markdown.js
+-rwxrwxrwx 1 juangh juangh  5939 may 10  2016 to-markdown.js
+
+./Proyecto/comun/static_root/assets/js/plugins/modernizr:
+total 16
+-rwxrwxrwx 1 juangh juangh 14521 may 10  2016 modernizr.js
+
+./Proyecto/comun/static_root/assets/js/plugins/moment:
+total 20
+-rwxrwxrwx 1 juangh juangh 18054 may 10  2016 moment.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/parsley-validation:
+total 44
+-rwxrwxrwx 1 juangh juangh 43268 may 10  2016 parsley.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/raphael:
+total 188
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 maps
+-rwxrwxrwx 1 juangh juangh 90647 may 10  2016 raphael-2.1.0.min.js
+-rwxrwxrwx 1 juangh juangh 91386 may 10  2016 raphael-min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/raphael/maps:
+total 288
+-rwxrwxrwx 1 juangh juangh 136841 may 10  2016 france_departments1.js
+-rwxrwxrwx 1 juangh juangh  16384 may 10  2016 usa_states.js
+-rwxrwxrwx 1 juangh juangh   1227 may 10  2016 world_countries (copia).js
+-rwxrwxrwx 1 juangh juangh   1227 may 10  2016 world_countries.js
+-rwxrwxrwx 1 juangh juangh 127841 may 10  2016 world_countries (otra copia).js
+
+./Proyecto/comun/static_root/assets/js/plugins/select2:
+total 64
+-rwxrwxrwx 1 juangh juangh 64569 may 10  2016 select2.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/stat:
+total 172
+-rwxrwxrwx 1 juangh juangh  19115 may 10  2016 colorbrewer.js
+-rwxrwxrwx 1 juangh juangh 146965 may 10  2016 d3.min.js
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 flot
+-rwxrwxrwx 1 juangh juangh   3673 may 10  2016 jquery.easypiechart.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/stat/flot:
+total 80
+-rwxrwxrwx 1 juangh juangh 36649 may 10  2016 jquery.flot.min.js
+-rwxrwxrwx 1 juangh juangh  6044 may 10  2016 jquery.flot.orderBars.js
+-rwxrwxrwx 1 juangh juangh 10473 may 10  2016 jquery.flot.pie.min.js
+-rwxrwxrwx 1 juangh juangh  1880 may 10  2016 jquery.flot.resize.min.js
+-rwxrwxrwx 1 juangh juangh  6890 may 10  2016 jquery.flot.selection.min.js
+-rwxrwxrwx 1 juangh juangh  4889 may 10  2016 jquery.flot.time.min.js
+-rwxrwxrwx 1 juangh juangh  3776 may 10  2016 jquery.flot.tooltip.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/summernote:
+total 52
+-rwxrwxrwx 1 juangh juangh 53025 may 10  2016 summernote.min.js
+
+./Proyecto/comun/static_root/assets/js/plugins/typeahead:
+total 52
+-rwxrwxrwx 1 juangh juangh 49022 may 10  2016 typeahead.js
+-rwxrwxrwx 1 juangh juangh  2460 may 10  2016 typeaheadjs.1.5.1.js
+
+./Proyecto/comun/static_root/assets/js/plugins/wizard:
+total 4
+-rwxrwxrwx 1 juangh juangh 2752 may 10  2016 wizard.min.js
+
+./Proyecto/comun/static_root/assets1:
+total 20
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fonts
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 ico
+drwxr-xr-x 4 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 6 juangh juangh 4096 ene 24  2017 js
+
+./Proyecto/comun/static_root/assets1/css:
+total 472
+-rwxrwxrwx 1 juangh juangh 109518 may 10  2016 bootstrap.min.css
+-rwxrwxrwx 1 juangh juangh  21984 may 10  2016 font-awesome.min.css
+-rwxrwxrwx 1 juangh juangh 344329 may 10  2016 main.min.css
+
+./Proyecto/comun/static_root/assets1/fonts:
+total 1800
+-rwxrwxrwx 1 juangh juangh  56006 may 10  2016 fontawesome-webfont.eot
+-rwxrwxrwx 1 juangh juangh  56006 may 10  2016 fontawesome-webfont.eot_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 287007 may 10  2016 fontawesome-webfont.svg_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 112160 may 10  2016 fontawesome-webfont.ttf_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  65452 may 10  2016 fontawesome-webfont.woff_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  20335 may 10  2016 glyphicons-halflings-regular.eot
+-rwxrwxrwx 1 juangh juangh  62927 may 10  2016 glyphicons-halflings-regular.svg
+-rwxrwxrwx 1 juangh juangh  41280 may 10  2016 glyphicons-halflings-regular.ttf
+-rwxrwxrwx 1 juangh juangh  23320 may 10  2016 glyphicons-halflings-regular.woff
+-rwxrwxrwx 1 juangh juangh  28810 may 10  2016 lato-bol-webfont.eot
+-rwxrwxrwx 1 juangh juangh 250936 may 10  2016 lato-bol-webfont.svg
+-rwxrwxrwx 1 juangh juangh  58300 may 10  2016 lato-bol-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  32376 may 10  2016 lato-bol-webfont.woff
+-rwxrwxrwx 1 juangh juangh  27402 may 10  2016 lato-lig-webfont.eot
+-rwxrwxrwx 1 juangh juangh 237302 may 10  2016 lato-lig-webfont.svg
+-rwxrwxrwx 1 juangh juangh  56648 may 10  2016 lato-lig-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31000 may 10  2016 lato-lig-webfont.woff
+-rwxrwxrwx 1 juangh juangh  28215 may 10  2016 lato-reg-webfont.eot
+-rwxrwxrwx 1 juangh juangh 238198 may 10  2016 lato-reg-webfont.svg
+-rwxrwxrwx 1 juangh juangh  57484 may 10  2016 lato-reg-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31796 may 10  2016 lato-reg-webfont.woff
+
+./Proyecto/comun/static_root/assets1/ico:
+total 20
+-rwxrwxrwx 1 juangh juangh 1307 may 10  2016 favicon.png
+-rwxrwxrwx 1 juangh juangh 3293 may 10  2016 kingadmin-favicon114x114.png
+-rwxrwxrwx 1 juangh juangh 4022 may 10  2016 kingadmin-favicon144x144.png
+-rwxrwxrwx 1 juangh juangh 2037 may 10  2016 kingadmin-favicon57x57.png
+-rwxrwxrwx 1 juangh juangh 2357 may 10  2016 kingadmin-favicon72x72.png
+
+./Proyecto/comun/static_root/assets1/img:
+total 188
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 bootstrap-colorpicker
+-rwxrwxrwx 1 juangh juangh   509 may 10  2016 clear.png
+-rwxrwxrwx 1 juangh juangh   961 may 10  2016 diagonal-stripe.png_1369651034
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 gallery
+-rwxrwxrwx 1 juangh juangh  4880 may 10  2016 gritter.png_1379032210
+-rwxrwxrwx 1 juangh juangh    43 may 10  2016 ie-spacer.gif_1379032210
+-rwxrwxrwx 1 juangh juangh  2363 may 10  2016 kingadmin-logo.png
+-rwxrwxrwx 1 juangh juangh  2322 may 10  2016 kingadmin-logo-white.png
+-rwxrwxrwx 1 juangh juangh  1849 may 10  2016 loading.gif
+-rwxrwxrwx 1 juangh juangh 30792 may 10  2016 profile-avatar.png
+-rwxrwxrwx 1 juangh juangh 41668 may 10  2016 search-result-img.png
+-rwxrwxrwx 1 juangh juangh  1849 may 10  2016 select2-spinner.gif_1398901838
+-rwxrwxrwx 1 juangh juangh  9108 may 10  2016 user1.png
+-rwxrwxrwx 1 juangh juangh 11313 may 10  2016 user2.png
+-rwxrwxrwx 1 juangh juangh 12210 may 10  2016 user3.png
+-rwxrwxrwx 1 juangh juangh 12017 may 10  2016 user4.png
+-rwxrwxrwx 1 juangh juangh 11337 may 10  2016 user5.png
+-rwxrwxrwx 1 juangh juangh  4327 may 10  2016 user-avatar.png
+
+./Proyecto/comun/static_root/assets1/img/bootstrap-colorpicker:
+total 28
+-rwxrwxrwx 1 juangh juangh 3635 may 10  2016 alpha-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 3271 may 10  2016 alpha.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2837 may 10  2016 hue-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2972 may 10  2016 hue.png_1385667212
+-rwxrwxrwx 1 juangh juangh 8817 may 10  2016 saturation.png_1385667212
+
+./Proyecto/comun/static_root/assets1/img/gallery:
+total 824
+-rwxrwxrwx 1 juangh juangh 171995 may 10  2016 bird.jpg
+-rwxrwxrwx 1 juangh juangh  56351 may 10  2016 cafe.jpg
+-rwxrwxrwx 1 juangh juangh  31428 may 10  2016 chair.jpg
+-rwxrwxrwx 1 juangh juangh  59607 may 10  2016 cuba-cup.jpg
+-rwxrwxrwx 1 juangh juangh  35253 may 10  2016 desk2.jpg
+-rwxrwxrwx 1 juangh juangh  27457 may 10  2016 desk.jpg
+-rwxrwxrwx 1 juangh juangh 185305 may 10  2016 fence.jpg
+-rwxrwxrwx 1 juangh juangh  26276 may 10  2016 hand.jpg
+-rwxrwxrwx 1 juangh juangh  30338 may 10  2016 jet-sky.jpg
+-rwxrwxrwx 1 juangh juangh  59591 may 10  2016 kitsune.jpg
+-rwxrwxrwx 1 juangh juangh  54464 may 10  2016 lighthouse.jpg
+-rwxrwxrwx 1 juangh juangh  85980 may 10  2016 mac.jpg
+
+./Proyecto/comun/static_root/assets1/js:
+total 88
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 bootstrap
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery-ui
+-rwxrwxrwx  1 juangh juangh 19201 may 10  2016 king-chart-stat.min.js
+-rwxrwxrwx  1 juangh juangh  8201 may 10  2016 king-common.min.js
+-rwxrwxrwx  1 juangh juangh  7640 may 10  2016 king-components.min.js
+-rwxrwxrwx  1 juangh juangh 18904 may 10  2016 king-elements.min.js
+-rwxrwxrwx  1 juangh juangh    95 may 10  2016 king-form-layouts.min.js
+-rwxrwxrwx  1 juangh juangh  2494 may 10  2016 king-page.min.js
+-rwxrwxrwx  1 juangh juangh  3799 jul  1  2016 king-table.min.js
+drwxr-xr-x 35 juangh juangh  4096 ene 24  2017 plugins
+
+./Proyecto/comun/static_root/assets1/js/bootstrap:
+total 60
+-rwxrwxrwx 1 juangh juangh 60681 may 10  2016 bootstrap.js
+
+./Proyecto/comun/static_root/assets1/js/jquery:
+total 84
+-rwxrwxrwx 1 juangh juangh 83650 may 10  2016 jquery-2.1.0.min.js
+
+./Proyecto/comun/static_root/assets1/js/jquery-ui:
+total 220
+-rwxrwxrwx 1 juangh juangh 223870 may 10  2016 jquery-ui-1.10.4.custom.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins:
+total 132
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-colorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-datepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-editable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-multiselect
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-progressbar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-slider
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-switch
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tagsinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-touchspin
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tour
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 datatable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 daterangepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 dropzone
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fullcalendar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 google-map
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jqallrangesliders
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 jqgrid
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-gritter
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mapael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-maskedinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mousewheel
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-simplecolorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-sparkline
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 markdown
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 modernizr
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 moment
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 parsley-validation
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 raphael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 select2
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 stat
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 summernote
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 typeahead
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 wizard
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-colorpicker:
+total 16
+-rwxrwxrwx 1 juangh juangh 15476 may 10  2016 bootstrap-colorpicker.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-datepicker:
+total 48
+-rwxrwxrwx 1 juangh juangh 46821 may 10  2016 bootstrap-datepicker.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-editable:
+total 96
+-rwxrwxrwx 1 juangh juangh  5170 may 10  2016 address.custom.js
+-rwxrwxrwx 1 juangh juangh 75909 may 10  2016 bootstrap-editable.min.js
+-rwxrwxrwx 1 juangh juangh  2396 may 10  2016 demo-mock.js
+-rwxrwxrwx 1 juangh juangh  6825 may 10  2016 jquery.mockjax.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-multiselect:
+total 44
+-rwxrwxrwx 1 juangh juangh 42943 may 10  2016 bootstrap-multiselect.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-progressbar:
+total 8
+-rwxrwxrwx 1 juangh juangh 6069 may 10  2016 bootstrap-progressbar.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-slider:
+total 12
+-rwxrwxrwx 1 juangh juangh 11246 may 10  2016 bootstrap-slider.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-switch:
+total 8
+-rwxrwxrwx 1 juangh juangh 7195 may 10  2016 bootstrap-switch.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-tagsinput:
+total 8
+-rwxrwxrwx 1 juangh juangh 6752 may 10  2016 bootstrap-tagsinput.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-touchspin:
+total 20
+-rwxrwxrwx 1 juangh juangh 19416 may 10  2016 jquery.bootstrap-touchspin.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/bootstrap-tour:
+total 28
+-rwxrwxrwx 1 juangh juangh 25287 may 10  2016 bootstrap-tour.custom.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/datatable:
+total 88
+-rwxrwxrwx 1 juangh juangh  6860 may 10  2016 dataTables.bootstrap.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 exts
+-rwxrwxrwx 1 juangh juangh 77499 may 10  2016 jquery.dataTables.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/datatable/exts:
+total 72
+-rwxrwxrwx 1 juangh juangh 10500 may 10  2016 dataTables.colReorder.min.js
+-rwxrwxrwx 1 juangh juangh 26180 may 10  2016 dataTables.colVis.bootstrap.js
+-rwxrwxrwx 1 juangh juangh 30729 may 10  2016 dataTables.tableTools.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/daterangepicker:
+total 36
+-rwxrwxrwx 1 juangh juangh 33883 may 10  2016 daterangepicker.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/dropzone:
+total 32
+-rwxrwxrwx 1 juangh juangh 30476 may 10  2016 dropzone.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/fullcalendar:
+total 52
+-rwxrwxrwx 1 juangh juangh 51213 may 10  2016 fullcalendar.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/google-map:
+total 4
+-rwxrwxrwx 1 juangh juangh 3281 may 10  2016 google-map.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jqallrangesliders:
+total 48
+-rwxrwxrwx 1 juangh juangh 49080 may 10  2016 jQAllRangeSliders-min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jqgrid:
+total 272
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 i18n
+-rwxrwxrwx 1 juangh juangh   2861 may 10  2016 jquery.jqGrid.fluid.js
+-rwxrwxrwx 1 juangh juangh 269177 may 10  2016 jquery.jqGrid.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jqgrid/i18n:
+total 8
+-rwxrwxrwx 1 juangh juangh 6780 may 10  2016 grid.locale-en.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jquery-gritter:
+total 8
+-rwxrwxrwx 1 juangh juangh 4312 may 10  2016 jquery.gritter.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jquery-mapael:
+total 32
+-rwxrwxrwx 1 juangh juangh 29729 may 10  2016 jquery.mapael.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jquery-maskedinput:
+total 4
+-rwxrwxrwx 1 juangh juangh 3568 may 10  2016 jquery.masked-input.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jquery-mousewheel:
+total 8
+-rwxrwxrwx 1 juangh juangh 4745 may 10  2016 jquery.mousewheel.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jquery-simplecolorpicker:
+total 8
+-rwxrwxrwx 1 juangh juangh 6766 may 10  2016 jquery.simplecolorpicker.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/jquery-sparkline:
+total 44
+-rwxrwxrwx 1 juangh juangh 43247 may 10  2016 jquery.sparkline.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/markdown:
+total 92
+-rwxrwxrwx 1 juangh juangh 31239 may 10  2016 bootstrap-markdown.js
+-rwxrwxrwx 1 juangh juangh 50969 may 10  2016 markdown.js
+-rwxrwxrwx 1 juangh juangh  5939 may 10  2016 to-markdown.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/modernizr:
+total 16
+-rwxrwxrwx 1 juangh juangh 14521 may 10  2016 modernizr.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/moment:
+total 20
+-rwxrwxrwx 1 juangh juangh 18054 may 10  2016 moment.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/parsley-validation:
+total 44
+-rwxrwxrwx 1 juangh juangh 43268 may 10  2016 parsley.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/raphael:
+total 188
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 maps
+-rwxrwxrwx 1 juangh juangh 90647 may 10  2016 raphael-2.1.0.min.js
+-rwxrwxrwx 1 juangh juangh 91386 may 10  2016 raphael-min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/raphael/maps:
+total 328
+-rwxrwxrwx 1 juangh juangh 136841 may 10  2016 france_departments.js
+-rwxrwxrwx 1 juangh juangh  62682 may 10  2016 usa_states.js
+-rwxrwxrwx 1 juangh juangh 127840 may 10  2016 world_countries.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/select2:
+total 64
+-rwxrwxrwx 1 juangh juangh 64569 may 10  2016 select2.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/stat:
+total 172
+-rwxrwxrwx 1 juangh juangh  19115 may 10  2016 colorbrewer.js
+-rwxrwxrwx 1 juangh juangh 146965 may 10  2016 d3.min.js
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 flot
+-rwxrwxrwx 1 juangh juangh   3673 may 10  2016 jquery.easypiechart.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/stat/flot:
+total 80
+-rwxrwxrwx 1 juangh juangh 36649 may 10  2016 jquery.flot.min.js
+-rwxrwxrwx 1 juangh juangh  6044 may 10  2016 jquery.flot.orderBars.js
+-rwxrwxrwx 1 juangh juangh 10473 may 10  2016 jquery.flot.pie.min.js
+-rwxrwxrwx 1 juangh juangh  1880 may 10  2016 jquery.flot.resize.min.js
+-rwxrwxrwx 1 juangh juangh  6890 may 10  2016 jquery.flot.selection.min.js
+-rwxrwxrwx 1 juangh juangh  4889 may 10  2016 jquery.flot.time.min.js
+-rwxrwxrwx 1 juangh juangh  3776 may 10  2016 jquery.flot.tooltip.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/summernote:
+total 52
+-rwxrwxrwx 1 juangh juangh 53025 may 10  2016 summernote.min.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/typeahead:
+total 52
+-rwxrwxrwx 1 juangh juangh 49022 may 10  2016 typeahead.js
+-rwxrwxrwx 1 juangh juangh  2460 may 10  2016 typeaheadjs.1.5.1.js
+
+./Proyecto/comun/static_root/assets1/js/plugins/wizard:
+total 4
+-rwxrwxrwx 1 juangh juangh 2752 may 10  2016 wizard.min.js
+
+./Proyecto/comun/static_root/css:
+total 20
+-rwxrwxrwx 1 juangh juangh 1061 may 10  2016 print.css
+-rwxrwxrwx 1 juangh juangh 3783 may 10  2016 pygments.css
+-rwxrwxrwx 1 juangh juangh 4372 may 10  2016 style.css
+-rwxrwxrwx 1 juangh juangh 2302 may 10  2016 styleold.css
+
+./Proyecto/comun/static_root/demo-style-switcher:
+total 4
+drwxr-xr-x 5 juangh juangh 4096 ene 24  2017 assets
+
+./Proyecto/comun/static_root/demo-style-switcher/assets:
+total 12
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 js
+
+./Proyecto/comun/static_root/demo-style-switcher/assets/css:
+total 4
+-rwxrwxrwx 1 juangh juangh 3219 may 10  2016 style-switcher.css
+
+./Proyecto/comun/static_root/demo-style-switcher/assets/img:
+total 4
+-rwxrwxrwx 1 juangh juangh 1852 may 10  2016 cog.png
+
+./Proyecto/comun/static_root/demo-style-switcher/assets/js:
+total 4
+-rwxrwxrwx 1 juangh juangh 3550 may 10  2016 deliswitch.js
+
+./Proyecto/comun/static_root/grafico:
+total 536
+-rwxrwxrwx 1 juangh juangh    158 may 12  2013 example.css
+-rwxrwxrwx 1 juangh juangh     63 may 12  2013 example.js
+-rwxrwxrwx 1 juangh juangh  93106 nov  2  2014 jquery.js
+-rwxrwxrwx 1 juangh juangh 237802 feb 26  2013 jquery.min.js
+-rwxrwxrwx 1 juangh juangh    605 sep 15  2013 morris.css
+-rwxrwxrwx 1 juangh juangh  60593 may 12  2013 morris.js
+-rwxrwxrwx 1 juangh juangh  32156 may 12  2013 morris.min.js
+-rwxrwxrwx 1 juangh juangh    675 may 12  2013 prettify.css
+-rwxrwxrwx 1 juangh juangh  13632 may 12  2013 prettify.js
+-rwxrwxrwx 1 juangh juangh  83924 sep 15  2013 raphael-min.js
+
+./Proyecto/comun/static_root/mapas:
+total 844
+-rwxrwxrwx 1 juangh juangh   2908 may 10  2016 abstract-canvas-element.js
+-rwxrwxrwx 1 juangh juangh   1652 may 10  2016 abstract-element.js
+-rwxrwxrwx 1 juangh juangh   1833 may 10  2016 abstract-shape-element.js
+-rwxrwxrwx 1 juangh juangh   1215 may 10  2016 build.sh
+-rwxrwxrwx 1 juangh juangh   1028 may 10  2016 color-scale.js
+-rwxrwxrwx 1 juangh juangh  16017 may 10  2016 css3-mediaqueries.js
+-rwxrwxrwx 1 juangh juangh   5255 may 10  2016 data-series.js
+-rwxrwxrwx 1 juangh juangh    618 may 10  2016 france-elections.json
+-rwxrwxrwx 1 juangh juangh  93433 may 10  2016 jquery-1.8.2.min.js
+-rwxrwxrwx 1 juangh juangh  83650 may 10  2016 jquery-2.1.0.min.js
+-rwxrwxrwx 1 juangh juangh   6549 may 10  2016 jquery-jvectormap-2.0.1.css
+-rwxrwxrwx 1 juangh juangh 104676 may 10  2016 jquery-jvectormap-2.0.1.min.js
+-rwxrwxrwx 1 juangh juangh   6549 may 10  2016 jquery-jvectormap.css
+-rwxrwxrwx 1 juangh juangh   1081 may 10  2016 jquery-jvectormap.js
+-rwxrwxrwx 1 juangh juangh 104259 may 10  2016 jquery-jvectormap-world-mill-en1.js
+-rwxrwxrwx 1 juangh juangh  91694 may 10  2016 jquery-jvectormap-world-mill-en2.js
+-rwxrwxrwx 1 juangh juangh   4605 may 10  2016 jquery-jvectormap-world-mill-en.js
+-rwxrwxrwx 1 juangh juangh  20032 may 10  2016 jquery-ui-1.8.22.custom.css
+-rwxrwxrwx 1 juangh juangh   3015 may 10  2016 jsdoc.css
+-rwxrwxrwx 1 juangh juangh    833 may 10  2016 jvectormap.jquery.json
+-rwxrwxrwx 1 juangh juangh   4233 may 10  2016 jvectormap.js
+-rwxrwxrwx 1 juangh juangh   2670 may 10  2016 legend.js
+-rwxrwxrwx 1 juangh juangh  10293 may 10  2016 lessframework.css
+-rwxrwxrwx 1 juangh juangh    720 may 10  2016 LICENSE-COMMERCIAL
+-rwxrwxrwx 1 juangh juangh  32446 may 10  2016 LICENSE-GPL
+-rwxrwxrwx 1 juangh juangh  38985 may 10  2016 map.js
+-rwxrwxrwx 1 juangh juangh   1999 may 10  2016 map-object.js
+-rwxrwxrwx 1 juangh juangh   2066 may 10  2016 marker.js
+-rwxrwxrwx 1 juangh juangh  12857 may 10  2016 modernizr.js
+-rwxrwxrwx 1 juangh juangh   4435 may 10  2016 multimap.js
+-rwxrwxrwx 1 juangh juangh   4258 may 10  2016 numeric-scale.js
+-rwxrwxrwx 1 juangh juangh    352 may 10  2016 ordinal-scale.js
+-rwxrwxrwx 1 juangh juangh   6568 may 10  2016 proj.js
+-rwxrwxrwx 1 juangh juangh    359 may 10  2016 README.md
+-rwxrwxrwx 1 juangh juangh   1248 may 10  2016 region.js
+-rwxrwxrwx 1 juangh juangh    133 may 10  2016 simple-scale.js
+-rwxrwxrwx 1 juangh juangh   3780 may 10  2016 skin.css
+-rwxrwxrwx 1 juangh juangh  16355 may 10  2016 style.css
+-rwxrwxrwx 1 juangh juangh    877 may 10  2016 svg-canvas-element.js
+-rwxrwxrwx 1 juangh juangh    180 may 10  2016 svg-circle-element.js
+-rwxrwxrwx 1 juangh juangh   1226 may 10  2016 svg-element.js
+-rwxrwxrwx 1 juangh juangh    238 may 10  2016 svg-group-element.js
+-rwxrwxrwx 1 juangh juangh   1100 may 10  2016 svg-image-element.js
+-rwxrwxrwx 1 juangh juangh    221 may 10  2016 svg-path-element.js
+-rwxrwxrwx 1 juangh juangh   1877 may 10  2016 svg-shape-element.js
+-rwxrwxrwx 1 juangh juangh    393 may 10  2016 svg-text-element.js
+-rwxrwxrwx 1 juangh juangh   4142 may 10  2016 syntax.css
+-rwxrwxrwx 1 juangh juangh   5787 may 10  2016 tabs.js
+-rwxrwxrwx 1 juangh juangh    504 may 10  2016 vector-canvas.js
+-rwxrwxrwx 1 juangh juangh   1540 may 10  2016 vml-canvas-element.js
+-rwxrwxrwx 1 juangh juangh    820 may 10  2016 vml-circle-element.js
+-rwxrwxrwx 1 juangh juangh   2912 may 10  2016 vml-element.js
+-rwxrwxrwx 1 juangh juangh    340 may 10  2016 vml-group-element.js
+-rwxrwxrwx 1 juangh juangh   1449 may 10  2016 vml-image-element.js
+-rwxrwxrwx 1 juangh juangh   2947 may 10  2016 vml-path-element.js
+-rwxrwxrwx 1 juangh juangh   1449 may 10  2016 vml-shape-element.js
+
+./Proyecto/comun/templates:
+total 8
+drwxr-xr-x 5 juangh juangh 4096 ene 24  2017 admin
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 registration
+
+./Proyecto/comun/templates/admin:
+total 100
+-rwxrwxrwx 1 juangh juangh  280 mar 27  2015 404.html
+-rwxrwxrwx 1 juangh juangh  544 mar 27  2015 500.html
+-rwxrwxrwx 1 juangh juangh 1111 mar 27  2015 actions.html
+-rwxrwxrwx 1 juangh juangh  380 mar 27  2015 app_index.html
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 auth
+-rwxrwxrwx 1 juangh juangh 3211 mar 27  2015 base.html
+-rwxrwxrwx 1 juangh juangh  271 mar 27  2015 base_site.html
+-rwxrwxrwx 1 juangh juangh 3131 mar 27  2015 change_form.html
+-rwxrwxrwx 1 juangh juangh 3511 mar 27  2015 change_list.html
+-rwxrwxrwx 1 juangh juangh 1625 mar 27  2015 change_list_results.html
+-rwxrwxrwx 1 juangh juangh  382 mar 27  2015 date_hierarchy.html
+-rwxrwxrwx 1 juangh juangh 1909 mar 27  2015 delete_confirmation.html
+-rwxrwxrwx 1 juangh juangh 1992 mar 27  2015 delete_selected_confirmation.html
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 edit_inline
+-rwxrwxrwx 1 juangh juangh  309 mar 27  2015 filter.html
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 includes
+-rwxrwxrwx 1 juangh juangh 3146 mar 27  2015 index.html
+-rwxrwxrwx 1 juangh juangh  450 mar 27  2015 invalid_setup.html
+-rwxrwxrwx 1 juangh juangh 2091 mar 27  2015 login.html
+-rwxrwxrwx 1 juangh juangh 1474 mar 27  2015 object_history.html
+-rwxrwxrwx 1 juangh juangh  573 mar 27  2015 pagination.html
+-rwxrwxrwx 1 juangh juangh  216 mar 27  2015 popup_response.html
+-rwxrwxrwx 1 juangh juangh 1039 mar 27  2015 prepopulated_fields_js.html
+-rwxrwxrwx 1 juangh juangh 1080 mar 27  2015 search_form.html
+-rwxrwxrwx 1 juangh juangh  799 mar 27  2015 submit_line.html
+
+./Proyecto/comun/templates/admin/auth:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 user
+
+./Proyecto/comun/templates/admin/auth/user:
+total 8
+-rwxrwxrwx 1 juangh juangh  457 mar 27  2015 add_form.html
+-rwxrwxrwx 1 juangh juangh 2446 mar 27  2015 change_password.html
+
+./Proyecto/comun/templates/admin/edit_inline:
+total 8
+-rwxrwxrwx 1 juangh juangh 2045 mar 27  2015 stacked.html
+-rwxrwxrwx 1 juangh juangh 4001 mar 27  2015 tabular.html
+
+./Proyecto/comun/templates/admin/includes:
+total 4
+-rwxrwxrwx 1 juangh juangh 1704 mar 27  2015 fieldset.html
+
+./Proyecto/comun/templates/registration:
+total 32
+-rwxrwxrwx 1 juangh juangh  386 mar 27  2015 logged_out.html
+-rwxrwxrwx 1 juangh juangh  713 mar 27  2015 password_change_done.html
+-rwxrwxrwx 1 juangh juangh 2097 mar 27  2015 password_change_form.html
+-rwxrwxrwx 1 juangh juangh  540 mar 27  2015 password_reset_complete.html
+-rwxrwxrwx 1 juangh juangh 1184 mar 27  2015 password_reset_confirm.html
+-rwxrwxrwx 1 juangh juangh  665 mar 27  2015 password_reset_done.html
+-rwxrwxrwx 1 juangh juangh  596 mar 27  2015 password_reset_email.html
+-rwxrwxrwx 1 juangh juangh  740 mar 27  2015 password_reset_form.html
+
+./Proyecto/static:
+total 524
+drwxr-xr-x 5 juangh juangh  4096 ene 24  2017 admin
+drwxr-xr-x 7 juangh juangh  4096 ene 24  2017 assets
+drwxr-xr-x 7 juangh juangh  4096 ene 24  2017 assets1
+-rwxrwxrwx 1 juangh juangh  9921 may 12  2016 beyond.min.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 css
+drwxr-xr-x 3 juangh juangh  4096 ene 24  2017 demo-style-switcher
+-rwxrwxrwx 1 juangh juangh 19761 abr 27  2015 esculapio.png
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 grafico
+-rwxrwxrwx 1 juangh juangh 93435 may 12  2016 jquery-1.8.2.min.js
+-rwxrwxrwx 1 juangh juangh 83487 may 12  2016 jquery-2.0.3.min.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 mapas
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 morris
+-rwxrwxrwx 1 juangh juangh 28355 may 12  2016 morris-0.4.1.min.js
+-rwxrwxrwx 1 juangh juangh  4719 may 12  2016 morris-init.js
+-rwxrwxrwx 1 juangh juangh 60593 may 12  2016 morris.js
+-rwxrwxrwx 1 juangh juangh  3881 may 27  2016 no.png
+-rwxrwxrwx 1 juangh juangh 86446 may 12  2016 raphael-2.0.2.min.js
+-rwxrwxrwx 1 juangh juangh 90647 may 12  2016 raphael-min.js
+-rwxrwxrwx 1 juangh juangh  3530 may 27  2016 si.png
+
+./Proyecto/static/admin:
+total 12
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 js
+
+./Proyecto/static/admin/css:
+total 60
+-rwxrwxrwx 1 juangh juangh 15010 mar 27  2015 base.css
+-rwxrwxrwx 1 juangh juangh  5547 mar 27  2015 changelists.css
+-rwxrwxrwx 1 juangh juangh   464 mar 27  2015 dashboard.css
+-rwxrwxrwx 1 juangh juangh  6181 mar 27  2015 forms.css
+-rwxrwxrwx 1 juangh juangh  1126 mar 27  2015 ie.css
+-rwxrwxrwx 1 juangh juangh  1000 mar 27  2015 login.css
+-rwxrwxrwx 1 juangh juangh  4066 mar 27  2015 rtl.css
+-rwxrwxrwx 1 juangh juangh 10922 mar 27  2015 widgets.css
+
+./Proyecto/static/admin/img:
+total 160
+-rwxrwxrwx 1 juangh juangh   58 mar 27  2015 changelist-bg.gif
+-rwxrwxrwx 1 juangh juangh   75 mar 27  2015 changelist-bg_rtl.gif
+-rwxrwxrwx 1 juangh juangh  199 mar 27  2015 chooser-bg.gif
+-rwxrwxrwx 1 juangh juangh  212 mar 27  2015 chooser_stacked-bg.gif
+-rwxrwxrwx 1 juangh juangh  844 mar 27  2015 default-bg.gif
+-rwxrwxrwx 1 juangh juangh  843 mar 27  2015 default-bg-reverse.gif
+-rwxrwxrwx 1 juangh juangh   45 mar 27  2015 deleted-overlay.gif
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 gis
+-rwxrwxrwx 1 juangh juangh  119 mar 27  2015 icon_addlink.gif
+-rwxrwxrwx 1 juangh juangh  145 mar 27  2015 icon_alert.gif
+-rwxrwxrwx 1 juangh juangh  192 mar 27  2015 icon_calendar.gif
+-rwxrwxrwx 1 juangh juangh  119 mar 27  2015 icon_changelink.gif
+-rwxrwxrwx 1 juangh juangh  390 mar 27  2015 icon_clock.gif
+-rwxrwxrwx 1 juangh juangh  181 mar 27  2015 icon_deletelink.gif
+-rwxrwxrwx 1 juangh juangh  319 mar 27  2015 icon_error.gif
+-rwxrwxrwx 1 juangh juangh  176 mar 27  2015 icon-no.gif
+-rwxrwxrwx 1 juangh juangh  667 mar 27  2015 icon_searchbox.png
+-rwxrwxrwx 1 juangh juangh  341 mar 27  2015 icon_success.gif
+-rwxrwxrwx 1 juangh juangh  130 mar 27  2015 icon-unknown.gif
+-rwxrwxrwx 1 juangh juangh  299 mar 27  2015 icon-yes.gif
+-rwxrwxrwx 1 juangh juangh  477 mar 27  2015 inline-delete-8bit.png
+-rwxrwxrwx 1 juangh juangh  781 mar 27  2015 inline-delete.png
+-rwxrwxrwx 1 juangh juangh  447 mar 27  2015 inline-restore-8bit.png
+-rwxrwxrwx 1 juangh juangh  623 mar 27  2015 inline-restore.png
+-rwxrwxrwx 1 juangh juangh  102 mar 27  2015 inline-splitter-bg.gif
+-rwxrwxrwx 1 juangh juangh  273 mar 27  2015 nav-bg.gif
+-rwxrwxrwx 1 juangh juangh  116 mar 27  2015 nav-bg-grabber.gif
+-rwxrwxrwx 1 juangh juangh  186 mar 27  2015 nav-bg-reverse.gif
+-rwxrwxrwx 1 juangh juangh  265 mar 27  2015 nav-bg-selected.gif
+-rwxrwxrwx 1 juangh juangh 2771 mar 27  2015 selector-icons.gif
+-rwxrwxrwx 1 juangh juangh  552 mar 27  2015 selector-search.gif
+-rwxrwxrwx 1 juangh juangh  369 mar 27  2015 sorting-icons.gif
+-rwxrwxrwx 1 juangh juangh  197 mar 27  2015 tool-left.gif
+-rwxrwxrwx 1 juangh juangh  203 mar 27  2015 tool-left_over.gif
+-rwxrwxrwx 1 juangh juangh  198 mar 27  2015 tool-right.gif
+-rwxrwxrwx 1 juangh juangh  200 mar 27  2015 tool-right_over.gif
+-rwxrwxrwx 1 juangh juangh  932 mar 27  2015 tooltag-add.gif
+-rwxrwxrwx 1 juangh juangh  336 mar 27  2015 tooltag-add_over.gif
+-rwxrwxrwx 1 juangh juangh  351 mar 27  2015 tooltag-arrowright.gif
+-rwxrwxrwx 1 juangh juangh  354 mar 27  2015 tooltag-arrowright_over.gif
+
+./Proyecto/static/admin/img/gis:
+total 8
+-rwxrwxrwx 1 juangh juangh 711 mar 27  2015 move_vertex_off.png
+-rwxrwxrwx 1 juangh juangh 506 mar 27  2015 move_vertex_on.png
+
+./Proyecto/static/admin/js:
+total 472
+-rwxrwxrwx 1 juangh juangh   4888 mar 27  2015 actions.js
+-rwxrwxrwx 1 juangh juangh   3146 mar 27  2015 actions.min.js
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 admin
+-rwxrwxrwx 1 juangh juangh   5023 mar 27  2015 calendar.js
+-rwxrwxrwx 1 juangh juangh    941 mar 27  2015 collapse.js
+-rwxrwxrwx 1 juangh juangh    649 mar 27  2015 collapse.min.js
+-rwxrwxrwx 1 juangh juangh   7152 mar 27  2015 core.js
+-rwxrwxrwx 1 juangh juangh  11463 mar 27  2015 inlines.js
+-rwxrwxrwx 1 juangh juangh   4495 mar 27  2015 inlines.min.js
+-rwxrwxrwx 1 juangh juangh    333 mar 27  2015 jquery.init.js
+-rwxrwxrwx 1 juangh juangh 277978 mar 27  2015 jquery.js
+-rwxrwxrwx 1 juangh juangh  92633 mar 27  2015 jquery.min.js
+-rwxrwxrwx 1 juangh juangh   1095 mar 27  2015 LICENSE-JQUERY.txt
+-rwxrwxrwx 1 juangh juangh   1225 mar 27  2015 prepopulate.js
+-rwxrwxrwx 1 juangh juangh    373 mar 27  2015 prepopulate.min.js
+-rwxrwxrwx 1 juangh juangh   4162 mar 27  2015 SelectBox.js
+-rwxrwxrwx 1 juangh juangh  10046 mar 27  2015 SelectFilter2.js
+-rwxrwxrwx 1 juangh juangh   2544 mar 27  2015 timeparse.js
+-rwxrwxrwx 1 juangh juangh   5725 mar 27  2015 urlify.js
+
+./Proyecto/static/admin/js/admin:
+total 20
+-rwxrwxrwx 1 juangh juangh 15174 mar 27  2015 DateTimeShortcuts.js
+-rwxrwxrwx 1 juangh juangh  3368 mar 27  2015 RelatedObjectLookups.js
+
+./Proyecto/static/assets:
+total 20
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fonts
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 ico
+drwxr-xr-x 4 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 6 juangh juangh 4096 feb  9  2017 js
+
+./Proyecto/static/assets/css:
+total 484
+-rwxrwxrwx 1 juangh juangh 119796 mar 27  2015 bootstrap.min.css
+-rwxrwxrwx 1 juangh juangh  21987 mar 27  2015 font-awesome.min.css
+-rwxrwxrwx 1 juangh juangh 344323 abr 23  2015 main.min.css
+
+./Proyecto/static/assets/fonts:
+total 2272
+-rwxrwxrwx 1 juangh juangh  56006 mar 27  2015 fontawesome-webfont.eot
+-rwxrwxrwx 1 juangh juangh  56006 mar 27  2015 fontawesome-webfont.eot_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 287526 mar 27  2015 fontawesome-webfont.svg
+-rwxrwxrwx 1 juangh juangh 287007 mar 27  2015 fontawesome-webfont.svg_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 112160 mar 27  2015 fontawesome-webfont.ttf
+-rwxrwxrwx 1 juangh juangh 112160 mar 27  2015 fontawesome-webfont.ttf_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  65452 mar 27  2015 fontawesome-webfont.woff
+-rwxrwxrwx 1 juangh juangh  65452 mar 27  2015 fontawesome-webfont.woff_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  20335 mar 27  2015 glyphicons-halflings-regular.eot
+-rwxrwxrwx 1 juangh juangh  63155 mar 27  2015 glyphicons-halflings-regular.svg
+-rwxrwxrwx 1 juangh juangh  41280 mar 27  2015 glyphicons-halflings-regular.ttf
+-rwxrwxrwx 1 juangh juangh  23320 mar 27  2015 glyphicons-halflings-regular.woff
+-rwxrwxrwx 1 juangh juangh  28810 mar 27  2015 lato-bol-webfont.eot
+-rwxrwxrwx 1 juangh juangh 255486 mar 27  2015 lato-bol-webfont.svg
+-rwxrwxrwx 1 juangh juangh  58300 mar 27  2015 lato-bol-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  32376 mar 27  2015 lato-bol-webfont.woff
+-rwxrwxrwx 1 juangh juangh  27402 mar 27  2015 lato-lig-webfont.eot
+-rwxrwxrwx 1 juangh juangh 241542 mar 27  2015 lato-lig-webfont.svg
+-rwxrwxrwx 1 juangh juangh  56648 mar 27  2015 lato-lig-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31000 mar 27  2015 lato-lig-webfont.woff
+-rwxrwxrwx 1 juangh juangh  28215 mar 27  2015 lato-reg-webfont.eot
+-rwxrwxrwx 1 juangh juangh 242438 mar 27  2015 lato-reg-webfont.svg
+-rwxrwxrwx 1 juangh juangh  57484 mar 27  2015 lato-reg-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31796 mar 27  2015 lato-reg-webfont.woff
+
+./Proyecto/static/assets/ico:
+total 220
+-rwxrwxrwx 1 juangh juangh   8271 feb 18  2015 django.png
+-rwxrwxrwx 1 juangh juangh   1307 mar 27  2015 favicon.png
+-rwxrwxrwx 1 juangh juangh   3293 mar 27  2015 kingadmin-favicon114x114.png
+-rwxrwxrwx 1 juangh juangh   4022 mar 27  2015 kingadmin-favicon144x144.png
+-rwxrwxrwx 1 juangh juangh   2037 mar 27  2015 kingadmin-favicon57x57.png
+-rwxrwxrwx 1 juangh juangh   2357 mar 27  2015 kingadmin-favicon72x72.png
+-rwxr-xr-x 1 juangh juangh   9392 dic 11  2016 logo.svg
+-rwxrwxrwx 1 juangh juangh 177194 feb 18  2015 Python-logo-notext.svg.png
+
+./Proyecto/static/assets/img:
+total 200
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 bootstrap-colorpicker
+-rwxrwxrwx 1 juangh juangh   509 mar 27  2015 clear.png
+-rwxrwxrwx 1 juangh juangh   961 mar 27  2015 diagonal-stripe.png_1369651034
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 gallery
+-rwxrwxrwx 1 juangh juangh  4880 mar 27  2015 gritter.png_1379032210
+-rwxrwxrwx 1 juangh juangh    43 mar 27  2015 ie-spacer.gif_1379032210
+-rwxrwxrwx 1 juangh juangh  2363 mar 27  2015 kingadmin-logo.png
+-rwxrwxrwx 1 juangh juangh  2322 mar 27  2015 kingadmin-logo-white.png
+-rwxrwxrwx 1 juangh juangh  1849 mar 27  2015 loading.gif
+-rwxrwxrwx 1 juangh juangh  4041 may 10  2016 logo.png
+-rwxrwxrwx 1 juangh juangh  5728 may 10  2016 logo.svg
+-rwxrwxrwx 1 juangh juangh 30792 mar 27  2015 profile-avatar.png
+-rwxrwxrwx 1 juangh juangh 41668 mar 27  2015 search-result-img.png
+-rwxrwxrwx 1 juangh juangh  1849 mar 27  2015 select2-spinner.gif_1398901838
+-rwxrwxrwx 1 juangh juangh  9108 mar 27  2015 user1.png
+-rwxrwxrwx 1 juangh juangh 11313 mar 27  2015 user2.png
+-rwxrwxrwx 1 juangh juangh 12210 mar 27  2015 user3.png
+-rwxrwxrwx 1 juangh juangh 12017 mar 27  2015 user4.png
+-rwxrwxrwx 1 juangh juangh 11337 mar 27  2015 user5.png
+-rwxrwxrwx 1 juangh juangh  4327 mar 27  2015 user-avatar.png
+
+./Proyecto/static/assets/img/bootstrap-colorpicker:
+total 28
+-rwxrwxrwx 1 juangh juangh 3635 mar 27  2015 alpha-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 3271 mar 27  2015 alpha.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2837 mar 27  2015 hue-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2972 mar 27  2015 hue.png_1385667212
+-rwxrwxrwx 1 juangh juangh 8817 mar 27  2015 saturation.png_1385667212
+
+./Proyecto/static/assets/img/gallery:
+total 824
+-rwxrwxrwx 1 juangh juangh 171995 mar 27  2015 bird.jpg
+-rwxrwxrwx 1 juangh juangh  56351 mar 27  2015 cafe.jpg
+-rwxrwxrwx 1 juangh juangh  31428 mar 27  2015 chair.jpg
+-rwxrwxrwx 1 juangh juangh  59607 mar 27  2015 cuba-cup.jpg
+-rwxrwxrwx 1 juangh juangh  35253 mar 27  2015 desk2.jpg
+-rwxrwxrwx 1 juangh juangh  27457 mar 27  2015 desk.jpg
+-rwxrwxrwx 1 juangh juangh 185305 mar 27  2015 fence.jpg
+-rwxrwxrwx 1 juangh juangh  26276 mar 27  2015 hand.jpg
+-rwxrwxrwx 1 juangh juangh  30338 mar 27  2015 jet-sky.jpg
+-rwxrwxrwx 1 juangh juangh  59591 mar 27  2015 kitsune.jpg
+-rwxrwxrwx 1 juangh juangh  54464 mar 27  2015 lighthouse.jpg
+-rwxrwxrwx 1 juangh juangh  85980 mar 27  2015 mac.jpg
+
+./Proyecto/static/assets/js:
+total 124
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 bootstrap
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery
+-rw-r--r--  1 juangh juangh 12728 mar  3  2016 jquery.formset.js
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery-ui
+-rwxrwxrwx  1 juangh juangh 19201 mar 27  2015 king-chart-stat.min.js
+-rwxrwxrwx  1 juangh juangh  8201 mar 27  2015 king-common.min.js
+-rwxrwxrwx  1 juangh juangh  7073 mar 27  2015 king-components.min.js
+-rwxrwxrwx  1 juangh juangh 23933 feb  9  2017 king-elements.js
+-rwxrwxrwx  1 juangh juangh 15892 mar 27  2015 king-elements.min.js
+-rwxrwxrwx  1 juangh juangh    95 mar 27  2015 king-form-layouts.min.js
+-rwxrwxrwx  1 juangh juangh  2494 mar 27  2015 king-page.min.js
+-rwxrwxrwx  1 juangh juangh  4086 jul  1  2016 king-table.min.js
+drwxr-xr-x 35 juangh juangh  4096 ene 24  2017 plugins
+
+./Proyecto/static/assets/js/bootstrap:
+total 60
+-rwxrwxrwx 1 juangh juangh 60681 mar 27  2015 bootstrap.js
+
+./Proyecto/static/assets/js/jquery:
+total 84
+-rwxrwxrwx 1 juangh juangh 83650 mar 27  2015 jquery-2.1.0.min.js
+
+./Proyecto/static/assets/js/jquery-ui:
+total 220
+-rwxrwxrwx 1 juangh juangh 223871 mar 27  2015 jquery-ui-1.10.4.custom.min.js
+
+./Proyecto/static/assets/js/plugins:
+total 132
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-colorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-datepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-editable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-multiselect
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-progressbar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-slider
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-switch
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tagsinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-touchspin
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tour
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 datatable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 daterangepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 dropzone
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fullcalendar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 google-map
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jqallrangesliders
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 jqgrid
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-gritter
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mapael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-maskedinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mousewheel
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-simplecolorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-sparkline
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 markdown
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 modernizr
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 moment
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 parsley-validation
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 raphael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 select2
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 stat
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 summernote
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 typeahead
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 wizard
+
+./Proyecto/static/assets/js/plugins/bootstrap-colorpicker:
+total 16
+-rwxrwxrwx 1 juangh juangh 15476 mar 27  2015 bootstrap-colorpicker.min.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-datepicker:
+total 48
+-rwxrwxrwx 1 juangh juangh 46821 mar 27  2015 bootstrap-datepicker.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-editable:
+total 96
+-rwxrwxrwx 1 juangh juangh  5170 mar 27  2015 address.custom.js
+-rwxrwxrwx 1 juangh juangh 75910 mar 27  2015 bootstrap-editable.min.js
+-rwxrwxrwx 1 juangh juangh  2396 mar 27  2015 demo-mock.js
+-rwxrwxrwx 1 juangh juangh  6825 mar 27  2015 jquery.mockjax.min.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-multiselect:
+total 44
+-rwxrwxrwx 1 juangh juangh 42943 mar 27  2015 bootstrap-multiselect.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-progressbar:
+total 8
+-rwxrwxrwx 1 juangh juangh 6069 mar 27  2015 bootstrap-progressbar.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-slider:
+total 12
+-rwxrwxrwx 1 juangh juangh 11246 mar 27  2015 bootstrap-slider.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-switch:
+total 8
+-rwxrwxrwx 1 juangh juangh 7195 mar 27  2015 bootstrap-switch.min.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-tagsinput:
+total 8
+-rwxrwxrwx 1 juangh juangh 6752 mar 27  2015 bootstrap-tagsinput.min.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-touchspin:
+total 20
+-rwxrwxrwx 1 juangh juangh 19416 mar 27  2015 jquery.bootstrap-touchspin.js
+
+./Proyecto/static/assets/js/plugins/bootstrap-tour:
+total 28
+-rwxrwxrwx 1 juangh juangh 25287 mar 27  2015 bootstrap-tour.custom.js
+
+./Proyecto/static/assets/js/plugins/datatable:
+total 88
+-rwxrwxrwx 1 juangh juangh  6865 mar 27  2015 dataTables.bootstrap.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 exts
+-rwxrwxrwx 1 juangh juangh 77532 mar 27  2015 jquery.dataTables.min.js
+
+./Proyecto/static/assets/js/plugins/datatable/exts:
+total 72
+-rwxrwxrwx 1 juangh juangh 10500 feb 24  2015 dataTables.colReorder.min.js
+-rwxrwxrwx 1 juangh juangh 26180 feb 24  2015 dataTables.colVis.bootstrap.js
+-rwxrwxrwx 1 juangh juangh 30729 feb 24  2015 dataTables.tableTools.min.js
+
+./Proyecto/static/assets/js/plugins/daterangepicker:
+total 36
+-rwxrwxrwx 1 juangh juangh 33895 mar 27  2015 daterangepicker.js
+
+./Proyecto/static/assets/js/plugins/dropzone:
+total 32
+-rwxrwxrwx 1 juangh juangh 30476 mar 27  2015 dropzone.min.js
+
+./Proyecto/static/assets/js/plugins/fullcalendar:
+total 52
+-rwxrwxrwx 1 juangh juangh 51232 dic 28  2016 fullcalendar.min.js
+
+./Proyecto/static/assets/js/plugins/google-map:
+total 4
+-rwxrwxrwx 1 juangh juangh 3281 mar 27  2015 google-map.js
+
+./Proyecto/static/assets/js/plugins/jqallrangesliders:
+total 48
+-rwxrwxrwx 1 juangh juangh 49080 mar 27  2015 jQAllRangeSliders-min.js
+
+./Proyecto/static/assets/js/plugins/jqgrid:
+total 272
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 i18n
+-rwxrwxrwx 1 juangh juangh   2861 mar 27  2015 jquery.jqGrid.fluid.js
+-rwxrwxrwx 1 juangh juangh 269177 mar 27  2015 jquery.jqGrid.min.js
+
+./Proyecto/static/assets/js/plugins/jqgrid/i18n:
+total 8
+-rwxrwxrwx 1 juangh juangh 6780 feb 24  2015 grid.locale-en.js
+
+./Proyecto/static/assets/js/plugins/jquery-gritter:
+total 8
+-rwxrwxrwx 1 juangh juangh 4312 mar 27  2015 jquery.gritter.min.js
+
+./Proyecto/static/assets/js/plugins/jquery-mapael:
+total 32
+-rwxrwxrwx 1 juangh juangh 29729 mar 27  2015 jquery.mapael.js
+
+./Proyecto/static/assets/js/plugins/jquery-maskedinput:
+total 4
+-rwxrwxrwx 1 juangh juangh 3568 mar 27  2015 jquery.masked-input.min.js
+
+./Proyecto/static/assets/js/plugins/jquery-mousewheel:
+total 8
+-rwxrwxrwx 1 juangh juangh 4745 mar 27  2015 jquery.mousewheel.js
+
+./Proyecto/static/assets/js/plugins/jquery-simplecolorpicker:
+total 8
+-rwxrwxrwx 1 juangh juangh 6766 mar 27  2015 jquery.simplecolorpicker.js
+
+./Proyecto/static/assets/js/plugins/jquery-sparkline:
+total 44
+-rwxrwxrwx 1 juangh juangh 43247 mar 27  2015 jquery.sparkline.min.js
+
+./Proyecto/static/assets/js/plugins/markdown:
+total 92
+-rwxrwxrwx 1 juangh juangh 31239 mar 27  2015 bootstrap-markdown.js
+-rwxrwxrwx 1 juangh juangh 50969 mar 27  2015 markdown.js
+-rwxrwxrwx 1 juangh juangh  5939 mar 27  2015 to-markdown.js
+
+./Proyecto/static/assets/js/plugins/modernizr:
+total 16
+-rwxrwxrwx 1 juangh juangh 14521 mar 27  2015 modernizr.js
+
+./Proyecto/static/assets/js/plugins/moment:
+total 20
+-rwxrwxrwx 1 juangh juangh 18054 mar 27  2015 moment.min.js
+
+./Proyecto/static/assets/js/plugins/parsley-validation:
+total 44
+-rwxrwxrwx 1 juangh juangh 43268 mar 27  2015 parsley.min.js
+
+./Proyecto/static/assets/js/plugins/raphael:
+total 188
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 maps
+-rwxrwxrwx 1 juangh juangh 90647 mar 27  2015 raphael-2.1.0.min.js
+-rwxrwxrwx 1 juangh juangh 91386 mar 27  2015 raphael-min.js
+
+./Proyecto/static/assets/js/plugins/raphael/maps:
+total 288
+-rwxrwxrwx 1 juangh juangh 136841 mar 27  2015 france_departments1.js
+-rwxrwxrwx 1 juangh juangh  16384 mar 27  2015 usa_states.js
+-rwxrwxrwx 1 juangh juangh   1227 feb 24  2015 world_countries (copia).js
+-rwxrwxrwx 1 juangh juangh   1227 mar 27  2015 world_countries.js
+-rwxrwxrwx 1 juangh juangh 127841 feb 24  2015 world_countries (otra copia).js
+
+./Proyecto/static/assets/js/plugins/select2:
+total 64
+-rwxrwxrwx 1 juangh juangh 64569 mar 27  2015 select2.min.js
+
+./Proyecto/static/assets/js/plugins/stat:
+total 172
+-rwxrwxrwx 1 juangh juangh  19115 mar 27  2015 colorbrewer.js
+-rwxrwxrwx 1 juangh juangh 146965 mar 27  2015 d3.min.js
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 flot
+-rwxrwxrwx 1 juangh juangh   3673 mar 27  2015 jquery.easypiechart.min.js
+
+./Proyecto/static/assets/js/plugins/stat/flot:
+total 80
+-rwxrwxrwx 1 juangh juangh 36649 feb 24  2015 jquery.flot.min.js
+-rwxrwxrwx 1 juangh juangh  6044 feb 24  2015 jquery.flot.orderBars.js
+-rwxrwxrwx 1 juangh juangh 10473 feb 24  2015 jquery.flot.pie.min.js
+-rwxrwxrwx 1 juangh juangh  1880 feb 24  2015 jquery.flot.resize.min.js
+-rwxrwxrwx 1 juangh juangh  6890 feb 24  2015 jquery.flot.selection.min.js
+-rwxrwxrwx 1 juangh juangh  4889 feb 24  2015 jquery.flot.time.min.js
+-rwxrwxrwx 1 juangh juangh  3776 feb 24  2015 jquery.flot.tooltip.min.js
+
+./Proyecto/static/assets/js/plugins/summernote:
+total 52
+-rwxrwxrwx 1 juangh juangh 53025 mar 27  2015 summernote.min.js
+
+./Proyecto/static/assets/js/plugins/typeahead:
+total 52
+-rwxrwxrwx 1 juangh juangh 49022 mar 27  2015 typeahead.js
+-rwxrwxrwx 1 juangh juangh  2460 mar 27  2015 typeaheadjs.1.5.1.js
+
+./Proyecto/static/assets/js/plugins/wizard:
+total 4
+-rwxrwxrwx 1 juangh juangh 2752 mar 27  2015 wizard.min.js
+
+./Proyecto/static/assets1:
+total 20
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fonts
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 ico
+drwxr-xr-x 4 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 6 juangh juangh 4096 feb  9  2017 js
+
+./Proyecto/static/assets1/css:
+total 472
+-rwxrwxrwx 1 juangh juangh 109518 jun 26  2014 bootstrap.min.css
+-rwxrwxrwx 1 juangh juangh  21984 ago 26  2014 font-awesome.min.css
+-rwxrwxrwx 1 juangh juangh 344329 sep 14  2014 main.min.css
+
+./Proyecto/static/assets1/fonts:
+total 1800
+-rwxrwxrwx 1 juangh juangh  56006 ago 26  2014 fontawesome-webfont.eot
+-rwxrwxrwx 1 juangh juangh  56006 ago 26  2014 fontawesome-webfont.eot_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 287007 ago 26  2014 fontawesome-webfont.svg_v=4.2.0
+-rwxrwxrwx 1 juangh juangh 112160 ago 26  2014 fontawesome-webfont.ttf_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  65452 ago 26  2014 fontawesome-webfont.woff_v=4.2.0
+-rwxrwxrwx 1 juangh juangh  20335 jun 26  2014 glyphicons-halflings-regular.eot
+-rwxrwxrwx 1 juangh juangh  62927 jun 26  2014 glyphicons-halflings-regular.svg
+-rwxrwxrwx 1 juangh juangh  41280 jun 26  2014 glyphicons-halflings-regular.ttf
+-rwxrwxrwx 1 juangh juangh  23320 jun 26  2014 glyphicons-halflings-regular.woff
+-rwxrwxrwx 1 juangh juangh  28810 nov 12  2013 lato-bol-webfont.eot
+-rwxrwxrwx 1 juangh juangh 250936 nov 12  2013 lato-bol-webfont.svg
+-rwxrwxrwx 1 juangh juangh  58300 nov 12  2013 lato-bol-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  32376 nov 12  2013 lato-bol-webfont.woff
+-rwxrwxrwx 1 juangh juangh  27402 nov  3  2013 lato-lig-webfont.eot
+-rwxrwxrwx 1 juangh juangh 237302 nov  3  2013 lato-lig-webfont.svg
+-rwxrwxrwx 1 juangh juangh  56648 nov  3  2013 lato-lig-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31000 nov  3  2013 lato-lig-webfont.woff
+-rwxrwxrwx 1 juangh juangh  28215 dic  3  2013 lato-reg-webfont.eot
+-rwxrwxrwx 1 juangh juangh 238198 dic  3  2013 lato-reg-webfont.svg
+-rwxrwxrwx 1 juangh juangh  57484 dic  3  2013 lato-reg-webfont.ttf
+-rwxrwxrwx 1 juangh juangh  31796 dic  3  2013 lato-reg-webfont.woff
+
+./Proyecto/static/assets1/ico:
+total 20
+-rwxrwxrwx 1 juangh juangh 1307 ene 26  2014 favicon.png
+-rwxrwxrwx 1 juangh juangh 3293 ene 26  2014 kingadmin-favicon114x114.png
+-rwxrwxrwx 1 juangh juangh 4022 ene 26  2014 kingadmin-favicon144x144.png
+-rwxrwxrwx 1 juangh juangh 2037 ene 26  2014 kingadmin-favicon57x57.png
+-rwxrwxrwx 1 juangh juangh 2357 ene 26  2014 kingadmin-favicon72x72.png
+
+./Proyecto/static/assets1/img:
+total 188
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 bootstrap-colorpicker
+-rwxrwxrwx 1 juangh juangh   509 nov  4  2013 clear.png
+-rwxrwxrwx 1 juangh juangh   961 may 27  2013 diagonal-stripe.png_1369651034
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 gallery
+-rwxrwxrwx 1 juangh juangh  4880 sep 13  2013 gritter.png_1379032210
+-rwxrwxrwx 1 juangh juangh    43 sep 13  2013 ie-spacer.gif_1379032210
+-rwxrwxrwx 1 juangh juangh  2363 may  2  2014 kingadmin-logo.png
+-rwxrwxrwx 1 juangh juangh  2322 may  2  2014 kingadmin-logo-white.png
+-rwxrwxrwx 1 juangh juangh  1849 nov  4  2013 loading.gif
+-rwxrwxrwx 1 juangh juangh 30792 dic 11  2013 profile-avatar.png
+-rwxrwxrwx 1 juangh juangh 41668 jun 24  2014 search-result-img.png
+-rwxrwxrwx 1 juangh juangh  1849 may  1  2014 select2-spinner.gif_1398901838
+-rwxrwxrwx 1 juangh juangh  9108 nov 11  2013 user1.png
+-rwxrwxrwx 1 juangh juangh 11313 nov 11  2013 user2.png
+-rwxrwxrwx 1 juangh juangh 12210 nov 11  2013 user3.png
+-rwxrwxrwx 1 juangh juangh 12017 nov 11  2013 user4.png
+-rwxrwxrwx 1 juangh juangh 11337 nov 11  2013 user5.png
+-rwxrwxrwx 1 juangh juangh  4327 nov 11  2013 user-avatar.png
+
+./Proyecto/static/assets1/img/bootstrap-colorpicker:
+total 28
+-rwxrwxrwx 1 juangh juangh 3635 nov 29  2013 alpha-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 3271 nov 29  2013 alpha.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2837 nov 29  2013 hue-horizontal.png_1385667212
+-rwxrwxrwx 1 juangh juangh 2972 nov 29  2013 hue.png_1385667212
+-rwxrwxrwx 1 juangh juangh 8817 nov 29  2013 saturation.png_1385667212
+
+./Proyecto/static/assets1/img/gallery:
+total 824
+-rwxrwxrwx 1 juangh juangh 171995 ene 14  2014 bird.jpg
+-rwxrwxrwx 1 juangh juangh  56351 ene 14  2014 cafe.jpg
+-rwxrwxrwx 1 juangh juangh  31428 ene 14  2014 chair.jpg
+-rwxrwxrwx 1 juangh juangh  59607 ene 14  2014 cuba-cup.jpg
+-rwxrwxrwx 1 juangh juangh  35253 ene 14  2014 desk2.jpg
+-rwxrwxrwx 1 juangh juangh  27457 ene 14  2014 desk.jpg
+-rwxrwxrwx 1 juangh juangh 185305 ene 14  2014 fence.jpg
+-rwxrwxrwx 1 juangh juangh  26276 ene 14  2014 hand.jpg
+-rwxrwxrwx 1 juangh juangh  30338 ene 14  2014 jet-sky.jpg
+-rwxrwxrwx 1 juangh juangh  59591 ene 14  2014 kitsune.jpg
+-rwxrwxrwx 1 juangh juangh  54464 ene 14  2014 lighthouse.jpg
+-rwxrwxrwx 1 juangh juangh  85980 ene 14  2014 mac.jpg
+
+./Proyecto/static/assets1/js:
+total 88
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 bootstrap
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery
+drwxr-xr-x  2 juangh juangh  4096 ene 24  2017 jquery-ui
+-rwxrwxrwx  1 juangh juangh 19201 sep 14  2014 king-chart-stat.min.js
+-rwxrwxrwx  1 juangh juangh  8201 nov  7  2014 king-common.min.js
+-rwxrwxrwx  1 juangh juangh  7640 sep 14  2014 king-components.min.js
+-rwxrwxrwx  1 juangh juangh 18895 feb  9  2017 king-elements.min.js
+-rwxrwxrwx  1 juangh juangh    95 sep 14  2014 king-form-layouts.min.js
+-rwxrwxrwx  1 juangh juangh  2494 sep 14  2014 king-page.min.js
+-rwxrwxrwx  1 juangh juangh  3792 jul  1  2016 king-table.min.js
+drwxr-xr-x 35 juangh juangh  4096 ene 24  2017 plugins
+
+./Proyecto/static/assets1/js/bootstrap:
+total 60
+-rwxrwxrwx 1 juangh juangh 60681 jun 26  2014 bootstrap.js
+
+./Proyecto/static/assets1/js/jquery:
+total 84
+-rwxrwxrwx 1 juangh juangh 83650 feb 20  2014 jquery-2.1.0.min.js
+
+./Proyecto/static/assets1/js/jquery-ui:
+total 220
+-rwxrwxrwx 1 juangh juangh 223870 mar 11  2014 jquery-ui-1.10.4.custom.min.js
+
+./Proyecto/static/assets1/js/plugins:
+total 132
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-colorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-datepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-editable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-multiselect
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-progressbar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-slider
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-switch
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tagsinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-touchspin
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bootstrap-tour
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 datatable
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 daterangepicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 dropzone
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 fullcalendar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 google-map
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jqallrangesliders
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 jqgrid
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-gritter
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mapael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-maskedinput
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-mousewheel
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-simplecolorpicker
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 jquery-sparkline
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 markdown
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 modernizr
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 moment
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 parsley-validation
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 raphael
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 select2
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 stat
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 summernote
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 typeahead
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 wizard
+
+./Proyecto/static/assets1/js/plugins/bootstrap-colorpicker:
+total 16
+-rwxrwxrwx 1 juangh juangh 15476 nov 29  2013 bootstrap-colorpicker.min.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-datepicker:
+total 48
+-rwxrwxrwx 1 juangh juangh 46821 abr 22  2016 bootstrap-datepicker.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-editable:
+total 96
+-rwxrwxrwx 1 juangh juangh  5170 may 14  2014 address.custom.js
+-rwxrwxrwx 1 juangh juangh 75909 nov  4  2013 bootstrap-editable.min.js
+-rwxrwxrwx 1 juangh juangh  2396 may  4  2014 demo-mock.js
+-rwxrwxrwx 1 juangh juangh  6825 may  4  2014 jquery.mockjax.min.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-multiselect:
+total 44
+-rwxrwxrwx 1 juangh juangh 42943 ago 23  2014 bootstrap-multiselect.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-progressbar:
+total 8
+-rwxrwxrwx 1 juangh juangh 6069 ago 29  2014 bootstrap-progressbar.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-slider:
+total 12
+-rwxrwxrwx 1 juangh juangh 11246 abr 11  2013 bootstrap-slider.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-switch:
+total 8
+-rwxrwxrwx 1 juangh juangh 7195 ene 19  2014 bootstrap-switch.min.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-tagsinput:
+total 8
+-rwxrwxrwx 1 juangh juangh 6752 oct 31  2013 bootstrap-tagsinput.min.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-touchspin:
+total 20
+-rwxrwxrwx 1 juangh juangh 19416 ago 14  2014 jquery.bootstrap-touchspin.js
+
+./Proyecto/static/assets1/js/plugins/bootstrap-tour:
+total 28
+-rwxrwxrwx 1 juangh juangh 25287 abr  4  2014 bootstrap-tour.custom.js
+
+./Proyecto/static/assets1/js/plugins/datatable:
+total 88
+-rwxrwxrwx 1 juangh juangh  6860 may 27  2014 dataTables.bootstrap.js
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 exts
+-rwxrwxrwx 1 juangh juangh 77499 jul 31  2014 jquery.dataTables.min.js
+
+./Proyecto/static/assets1/js/plugins/datatable/exts:
+total 72
+-rwxrwxrwx 1 juangh juangh 10500 may  1  2014 dataTables.colReorder.min.js
+-rwxrwxrwx 1 juangh juangh 26180 may 29  2014 dataTables.colVis.bootstrap.js
+-rwxrwxrwx 1 juangh juangh 30729 may  1  2014 dataTables.tableTools.min.js
+
+./Proyecto/static/assets1/js/plugins/daterangepicker:
+total 36
+-rwxrwxrwx 1 juangh juangh 33883 nov 11  2013 daterangepicker.js
+
+./Proyecto/static/assets1/js/plugins/dropzone:
+total 32
+-rwxrwxrwx 1 juangh juangh 30476 ene 13  2014 dropzone.min.js
+
+./Proyecto/static/assets1/js/plugins/fullcalendar:
+total 52
+-rwxrwxrwx 1 juangh juangh 51213 sep  1  2013 fullcalendar.min.js
+
+./Proyecto/static/assets1/js/plugins/google-map:
+total 4
+-rwxrwxrwx 1 juangh juangh 3281 jul 11  2014 google-map.js
+
+./Proyecto/static/assets1/js/plugins/jqallrangesliders:
+total 48
+-rwxrwxrwx 1 juangh juangh 49080 nov  2  2013 jQAllRangeSliders-min.js
+
+./Proyecto/static/assets1/js/plugins/jqgrid:
+total 272
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 i18n
+-rwxrwxrwx 1 juangh juangh   2861 dic 21  2013 jquery.jqGrid.fluid.js
+-rwxrwxrwx 1 juangh juangh 269177 dic 19  2013 jquery.jqGrid.min.js
+
+./Proyecto/static/assets1/js/plugins/jqgrid/i18n:
+total 8
+-rwxrwxrwx 1 juangh juangh 6780 may 13  2013 grid.locale-en.js
+
+./Proyecto/static/assets1/js/plugins/jquery-gritter:
+total 8
+-rwxrwxrwx 1 juangh juangh 4312 sep 13  2013 jquery.gritter.min.js
+
+./Proyecto/static/assets1/js/plugins/jquery-mapael:
+total 32
+-rwxrwxrwx 1 juangh juangh 29729 dic  4  2013 jquery.mapael.js
+
+./Proyecto/static/assets1/js/plugins/jquery-maskedinput:
+total 4
+-rwxrwxrwx 1 juangh juangh 3568 nov 28  2013 jquery.masked-input.min.js
+
+./Proyecto/static/assets1/js/plugins/jquery-mousewheel:
+total 8
+-rwxrwxrwx 1 juangh juangh 4745 dic 29  2013 jquery.mousewheel.js
+
+./Proyecto/static/assets1/js/plugins/jquery-simplecolorpicker:
+total 8
+-rwxrwxrwx 1 juangh juangh 6766 dic  2  2013 jquery.simplecolorpicker.js
+
+./Proyecto/static/assets1/js/plugins/jquery-sparkline:
+total 44
+-rwxrwxrwx 1 juangh juangh 43247 nov  3  2013 jquery.sparkline.min.js
+
+./Proyecto/static/assets1/js/plugins/markdown:
+total 92
+-rwxrwxrwx 1 juangh juangh 31239 mar 12  2014 bootstrap-markdown.js
+-rwxrwxrwx 1 juangh juangh 50969 jul 26  2013 markdown.js
+-rwxrwxrwx 1 juangh juangh  5939 ago 24  2012 to-markdown.js
+
+./Proyecto/static/assets1/js/plugins/modernizr:
+total 16
+-rwxrwxrwx 1 juangh juangh 14521 sep 12  2013 modernizr.js
+
+./Proyecto/static/assets1/js/plugins/moment:
+total 20
+-rwxrwxrwx 1 juangh juangh 18054 nov 11  2013 moment.min.js
+
+./Proyecto/static/assets1/js/plugins/parsley-validation:
+total 44
+-rwxrwxrwx 1 juangh juangh 43268 ago 28  2014 parsley.min.js
+
+./Proyecto/static/assets1/js/plugins/raphael:
+total 188
+drwxr-xr-x 2 juangh juangh  4096 ene 24  2017 maps
+-rwxrwxrwx 1 juangh juangh 90647 may 12  2013 raphael-2.1.0.min.js
+-rwxrwxrwx 1 juangh juangh 91386 dic  4  2013 raphael-min.js
+
+./Proyecto/static/assets1/js/plugins/raphael/maps:
+total 328
+-rwxrwxrwx 1 juangh juangh 136841 dic  4  2013 france_departments.js
+-rwxrwxrwx 1 juangh juangh  62682 dic  4  2013 usa_states.js
+-rwxrwxrwx 1 juangh juangh 127840 dic  4  2013 world_countries.js
+
+./Proyecto/static/assets1/js/plugins/select2:
+total 64
+-rwxrwxrwx 1 juangh juangh 64569 may  1  2014 select2.min.js
+
+./Proyecto/static/assets1/js/plugins/stat:
+total 172
+-rwxrwxrwx 1 juangh juangh  19115 abr  1  2014 colorbrewer.js
+-rwxrwxrwx 1 juangh juangh 146965 mar 24  2014 d3.min.js
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 flot
+-rwxrwxrwx 1 juangh juangh   3673 dic  9  2013 jquery.easypiechart.min.js
+
+./Proyecto/static/assets1/js/plugins/stat/flot:
+total 80
+-rwxrwxrwx 1 juangh juangh 36649 may 22  2013 jquery.flot.min.js
+-rwxrwxrwx 1 juangh juangh  6044 dic 22  2013 jquery.flot.orderBars.js
+-rwxrwxrwx 1 juangh juangh 10473 may 22  2013 jquery.flot.pie.min.js
+-rwxrwxrwx 1 juangh juangh  1880 may 22  2013 jquery.flot.resize.min.js
+-rwxrwxrwx 1 juangh juangh  6890 may 22  2013 jquery.flot.selection.min.js
+-rwxrwxrwx 1 juangh juangh  4889 may 22  2013 jquery.flot.time.min.js
+-rwxrwxrwx 1 juangh juangh  3776 dic 21  2013 jquery.flot.tooltip.min.js
+
+./Proyecto/static/assets1/js/plugins/summernote:
+total 52
+-rwxrwxrwx 1 juangh juangh 53025 mar 16  2014 summernote.min.js
+
+./Proyecto/static/assets1/js/plugins/typeahead:
+total 52
+-rwxrwxrwx 1 juangh juangh 49022 nov  4  2013 typeahead.js
+-rwxrwxrwx 1 juangh juangh  2460 may  5  2014 typeaheadjs.1.5.1.js
+
+./Proyecto/static/assets1/js/plugins/wizard:
+total 4
+-rwxrwxrwx 1 juangh juangh 2752 dic  9  2013 wizard.min.js
+
+./Proyecto/static/css:
+total 20
+-rwxrwxrwx 1 juangh juangh 1061 mar 27  2015 print.css
+-rwxrwxrwx 1 juangh juangh 3783 mar 27  2015 pygments.css
+-rwxrwxrwx 1 juangh juangh 4372 mar 27  2015 style.css
+-rwxrwxrwx 1 juangh juangh 2302 mar 27  2015 styleold.css
+
+./Proyecto/static/demo-style-switcher:
+total 4
+drwxr-xr-x 5 juangh juangh 4096 ene 24  2017 assets
+
+./Proyecto/static/demo-style-switcher/assets:
+total 12
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 css
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 img
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 js
+
+./Proyecto/static/demo-style-switcher/assets/css:
+total 4
+-rwxrwxrwx 1 juangh juangh 3219 mar 27  2015 style-switcher.css
+
+./Proyecto/static/demo-style-switcher/assets/img:
+total 4
+-rwxrwxrwx 1 juangh juangh 1852 mar 27  2015 cog.png
+
+./Proyecto/static/demo-style-switcher/assets/js:
+total 4
+-rwxrwxrwx 1 juangh juangh 3550 mar 27  2015 deliswitch.js
+
+./Proyecto/static/grafico:
+total 548
+-rwxrwxrwx 1 juangh juangh    158 may 12  2013 example.css
+-rwxrwxrwx 1 juangh juangh     63 may 12  2013 example.js
+-rwxrwxrwx 1 juangh juangh  93106 nov  2  2014 jquery.js
+-rwxrwxrwx 1 juangh juangh 237802 feb 26  2013 jquery.min.js
+-rwxrwxrwx 1 juangh juangh    605 sep 15  2013 morris.css
+-rw-r--r-- 1 juangh juangh  65882 ene 18  2017 morris.js
+-rw-r--r-- 1 juangh juangh  35509 ene 18  2017 morris.min.js
+-rwxrwxrwx 1 juangh juangh    675 may 12  2013 prettify.css
+-rwxrwxrwx 1 juangh juangh  13632 may 12  2013 prettify.js
+-rwxrwxrwx 1 juangh juangh  83924 sep 15  2013 raphael-min.js
+
+./Proyecto/static/mapas:
+total 844
+-rwxrwxrwx 1 juangh juangh   2908 mar 27  2015 abstract-canvas-element.js
+-rwxrwxrwx 1 juangh juangh   1652 mar 27  2015 abstract-element.js
+-rwxrwxrwx 1 juangh juangh   1833 mar 27  2015 abstract-shape-element.js
+-rwxrwxrwx 1 juangh juangh   1215 mar 27  2015 build.sh
+-rwxrwxrwx 1 juangh juangh   1028 mar 27  2015 color-scale.js
+-rwxrwxrwx 1 juangh juangh  16017 mar 27  2015 css3-mediaqueries.js
+-rwxrwxrwx 1 juangh juangh   5255 mar 27  2015 data-series.js
+-rwxrwxrwx 1 juangh juangh    618 mar 27  2015 france-elections.json
+-rwxrwxrwx 1 juangh juangh  93433 mar 27  2015 jquery-1.8.2.min.js
+-rwxrwxrwx 1 juangh juangh  83650 mar 27  2015 jquery-2.1.0.min.js
+-rwxrwxrwx 1 juangh juangh   6549 mar 27  2015 jquery-jvectormap-2.0.1.css
+-rwxrwxrwx 1 juangh juangh 104676 mar 27  2015 jquery-jvectormap-2.0.1.min.js
+-rwxrwxrwx 1 juangh juangh   6549 mar 27  2015 jquery-jvectormap.css
+-rwxrwxrwx 1 juangh juangh   1081 mar 27  2015 jquery-jvectormap.js
+-rwxrwxrwx 1 juangh juangh 104259 mar 27  2015 jquery-jvectormap-world-mill-en1.js
+-rwxrwxrwx 1 juangh juangh  91694 mar 27  2015 jquery-jvectormap-world-mill-en2.js
+-rwxrwxrwx 1 juangh juangh   4605 mar 27  2015 jquery-jvectormap-world-mill-en.js
+-rwxrwxrwx 1 juangh juangh  20032 mar 27  2015 jquery-ui-1.8.22.custom.css
+-rwxrwxrwx 1 juangh juangh   3015 mar 27  2015 jsdoc.css
+-rwxrwxrwx 1 juangh juangh    833 mar 27  2015 jvectormap.jquery.json
+-rwxrwxrwx 1 juangh juangh   4233 mar 27  2015 jvectormap.js
+-rwxrwxrwx 1 juangh juangh   2670 mar 27  2015 legend.js
+-rwxrwxrwx 1 juangh juangh  10293 mar 27  2015 lessframework.css
+-rwxrwxrwx 1 juangh juangh    720 mar 27  2015 LICENSE-COMMERCIAL
+-rwxrwxrwx 1 juangh juangh  32446 mar 27  2015 LICENSE-GPL
+-rwxrwxrwx 1 juangh juangh  38985 mar 27  2015 map.js
+-rwxrwxrwx 1 juangh juangh   1999 mar 27  2015 map-object.js
+-rwxrwxrwx 1 juangh juangh   2066 mar 27  2015 marker.js
+-rwxrwxrwx 1 juangh juangh  12857 mar 27  2015 modernizr.js
+-rwxrwxrwx 1 juangh juangh   4435 mar 27  2015 multimap.js
+-rwxrwxrwx 1 juangh juangh   4258 mar 27  2015 numeric-scale.js
+-rwxrwxrwx 1 juangh juangh    352 mar 27  2015 ordinal-scale.js
+-rwxrwxrwx 1 juangh juangh   6568 mar 27  2015 proj.js
+-rwxrwxrwx 1 juangh juangh    359 mar 27  2015 README.md
+-rwxrwxrwx 1 juangh juangh   1248 mar 27  2015 region.js
+-rwxrwxrwx 1 juangh juangh    133 mar 27  2015 simple-scale.js
+-rwxrwxrwx 1 juangh juangh   3780 mar 27  2015 skin.css
+-rwxrwxrwx 1 juangh juangh  16355 mar 27  2015 style.css
+-rwxrwxrwx 1 juangh juangh    877 mar 27  2015 svg-canvas-element.js
+-rwxrwxrwx 1 juangh juangh    180 mar 27  2015 svg-circle-element.js
+-rwxrwxrwx 1 juangh juangh   1226 mar 27  2015 svg-element.js
+-rwxrwxrwx 1 juangh juangh    238 mar 27  2015 svg-group-element.js
+-rwxrwxrwx 1 juangh juangh   1100 mar 27  2015 svg-image-element.js
+-rwxrwxrwx 1 juangh juangh    221 mar 27  2015 svg-path-element.js
+-rwxrwxrwx 1 juangh juangh   1877 mar 27  2015 svg-shape-element.js
+-rwxrwxrwx 1 juangh juangh    393 mar 27  2015 svg-text-element.js
+-rwxrwxrwx 1 juangh juangh   4142 mar 27  2015 syntax.css
+-rwxrwxrwx 1 juangh juangh   5787 mar 27  2015 tabs.js
+-rwxrwxrwx 1 juangh juangh    504 mar 27  2015 vector-canvas.js
+-rwxrwxrwx 1 juangh juangh   1540 mar 27  2015 vml-canvas-element.js
+-rwxrwxrwx 1 juangh juangh    820 mar 27  2015 vml-circle-element.js
+-rwxrwxrwx 1 juangh juangh   2912 mar 27  2015 vml-element.js
+-rwxrwxrwx 1 juangh juangh    340 mar 27  2015 vml-group-element.js
+-rwxrwxrwx 1 juangh juangh   1449 mar 27  2015 vml-image-element.js
+-rwxrwxrwx 1 juangh juangh   2947 mar 27  2015 vml-path-element.js
+-rwxrwxrwx 1 juangh juangh   1449 mar 27  2015 vml-shape-element.js
+
+./Proyecto/static/morris:
+total 312
+-rwxr-xr-x 1 juangh juangh   158 feb 20  2016 example.css
+-rwxr-xr-x 1 juangh juangh    63 feb 20  2016 example.js
+-rwxr-xr-x 1 juangh juangh 83606 feb 20  2016 jquery.min.js
+-rwxr-xr-x 1 juangh juangh   433 feb 20  2016 morris.css
+-rw-r--r-- 1 juangh juangh 65882 ene 18  2017 morris.js
+-rw-r--r-- 1 juangh juangh 35509 ene 18  2017 morris.min.js
+-rwxr-xr-x 1 juangh juangh   672 feb 20  2016 prettify.min.css
+-rwxr-xr-x 1 juangh juangh 13704 feb 20  2016 prettify.min.js
+-rwxr-xr-x 1 juangh juangh 91386 feb 20  2016 raphael-min.js
+
+./qrtransporte:
+
+
+./radio:
+total 80
+-rwxrwxrwx 1 juangh juangh   850 oct 26  2016 admin.py
+-rw-r--r-- 1 juangh juangh  1777 nov  5  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  2041 mar 27  2015 forms.py
+-rwxrwxrwx 1 juangh juangh  3181 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh     0 mar 27  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh   141 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  2768 jun 27  2016 models.py
+-rwxrwxrwx 1 juangh juangh  4659 jun 30  2016 models.pyc
+drwxr-xr-x 7 juangh juangh  4096 ene 24  2017 plantilla
+drwxr-xr-x 2 juangh juangh  4096 ene 23  2016 plantillas
+-rwxrwxrwx 1 juangh juangh    60 mar 27  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 17079 oct 20  2016 views.py
+-rw-r--r-- 1 juangh juangh 15779 nov  5  2016 views.pyc
+
+./radio/plantilla:
+total 20
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 estaciones_fijas
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 estaciones_moviles
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 estaciones_portatiles
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 estaciones_repetidoras
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 radio
+
+./radio/plantilla/estaciones_fijas:
+total 12
+-rwxrwxrwx 1 juangh juangh 1910 oct 13  2016 agregar_estacion_fija.html
+-rwxrwxrwx 1 juangh juangh 1858 oct 13  2016 editar_estacion_fija.html
+-rwxrwxrwx 1 juangh juangh 1264 oct 13  2016 info_estacion_fija.html
+
+./radio/plantilla/estaciones_moviles:
+total 12
+-rwxrwxrwx 1 juangh juangh 2482 oct 13  2016 agregar_estacion_movil.html
+-rwxrwxrwx 1 juangh juangh 2279 oct 13  2016 editar_estacion_movil.html
+-rwxrwxrwx 1 juangh juangh 1543 oct 13  2016 info_estacion_movil.html
+
+./radio/plantilla/estaciones_portatiles:
+total 12
+-rwxrwxrwx 1 juangh juangh 1937 oct 13  2016 agregar_estacion_portatil.html
+-rwxrwxrwx 1 juangh juangh 1920 oct 13  2016 editar_estacion_portatil.html
+-rwxrwxrwx 1 juangh juangh 1357 oct 13  2016 info_estacion_portatil.html
+
+./radio/plantilla/estaciones_repetidoras:
+total 12
+-rwxrwxrwx 1 juangh juangh 1517 oct 13  2016 agregar_estacion_repetidora.html
+-rwxrwxrwx 1 juangh juangh 1524 oct 13  2016 editar_estacion_repetidora.html
+-rwxrwxrwx 1 juangh juangh 1157 oct 13  2016 info_estacion_repetidora.html
+
+./radio/plantilla/radio:
+total 308
+-rwxrwxrwx 1 juangh juangh 290816 mar 27  2015 An++º-ãÆ-+é--®cdotas de Ch++º-ãÆ-+é--ívez.mpg
+-rwxrwxrwx 1 juangh juangh    205 mar 27  2015 comun_radio.html
+-rwxrwxrwx 1 juangh juangh  13040 oct 20  2016 listar_radio.html
+drwxr-xr-x 2 juangh juangh   4096 ene 24  2017 PaxHeader
+
+./radio/plantilla/radio/PaxHeader:
+total 4
+-rwxrwxrwx 1 juangh juangh 90 mar 27  2015 An++º-ãÆ-+é--®cdotas de Ch++º-ãÆ-+é--ívez.mpg
+
+./radio/plantillas:
+total 0
+
+./reclutamiento:
+total 56
+-rwxr--r-- 1 juangh juangh 1030 feb 17  2017 admin.py
+-rw-r--r-- 1 juangh juangh 2364 feb 17  2017 admin.pyc
+-rwxr-xr-x 1 juangh juangh 1060 feb 17  2017 forms.py
+-rw-r--r-- 1 juangh juangh 1382 feb 17  2017 forms.pyc
+-rwxr--r-- 1 juangh juangh    0 feb 17  2017 __init__.py
+-rwxr--r-- 1 juangh juangh  150 feb 17  2017 __init__.pyc
+-rwxr--r-- 1 juangh juangh 3517 feb 17  2017 models.py
+-rw-r--r-- 1 juangh juangh 5800 feb 17  2017 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 feb 17  2017 plantilla
+-rwxr--r-- 1 juangh juangh   60 feb 17  2017 tests.py
+-rwxr--r-- 1 juangh juangh 4129 feb 17  2017 views.py
+-rw-r--r-- 1 juangh juangh 4279 feb 17  2017 views.pyc
+
+./reclutamiento/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 feb 17  2017 recluta
+
+./reclutamiento/plantilla/recluta:
+total 16
+-rwxr-xr-x 1 juangh juangh 4453 feb 17  2017 formulario.recluta.html
+-rwxr-xr-x 1 juangh juangh 4821 feb 17  2017 recluta.html
+
+./reporte:
+total 44
+-rwxrwxrwx 1 juangh juangh   63 jun  3  2015 admin.py
+-rwxrwxrwx 1 juangh juangh  200 abr 25  2016 admin.pyc
+-rw-r--r-- 1 juangh juangh  206 feb 13  2017 geany_run_script.sh
+-rwxrwxrwx 1 juangh juangh    0 jun  3  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh  143 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh   57 jun  3  2015 models.py
+-rwxrwxrwx 1 juangh juangh  197 abr 25  2016 models.pyc
+drwxr-xr-x 2 juangh juangh 4096 feb 13  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 jun  3  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 3662 feb 13  2017 views.py
+-rw-r--r-- 1 juangh juangh 3455 feb 13  2017 views.pyc
+-rwxrwxrwx 1 juangh juangh 2713 nov 18  2016 views.py.save
+
+./reporte/plantilla:
+total 12
+-rwxr-xr-x 1 juangh juangh  882 feb 13  2017 listado.html
+-rwxrwxrwx 1 juangh juangh 1076 nov 18  2016 reporte_unidad.html
+-rwxrwxrwx 1 juangh juangh 1680 jun 10  2015 unidad_enlace.html
+
+./rrhh:
+total 76
+-rwxrwxrwx 1 juangh juangh  1064 dic 26  2016 admin.py
+-rw-r--r-- 1 juangh juangh  2033 dic 26  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  1250 may  3  2016 forms.py
+-rwxrwxrwx 1 juangh juangh  1568 may  3  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh     0 feb 18  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh   140 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  3864 may 27  2016 models.py
+-rwxrwxrwx 1 juangh juangh  5964 may 27  2016 models.pyc
+drwxr-xr-x 4 juangh juangh  4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh    63 feb 18  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 18850 feb 17  2017 views.py
+-rw-r--r-- 1 juangh juangh 15178 feb 17  2017 views.pyc
+
+./rrhh/plantilla:
+total 8
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 logs
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 trabajador
+
+./rrhh/plantilla/logs:
+total 8
+-rwxrwxrwx 1 juangh juangh 352 may  6  2016 tra.html
+-rwxrwxrwx 1 juangh juangh 873 jul  1  2016 ver_log_usuario.html
+
+./rrhh/plantilla/trabajador:
+total 24
+-rwxrwxrwx 1 juangh juangh 3291 feb 18  2015 editar.trabajador.html
+-rwxrwxrwx 1 juangh juangh 3183 may  3  2016 formulario.trabajador.html
+-rwxrwxrwx 1 juangh juangh 5778 jul  1  2016 index.trabajador.html
+-rwxrwxrwx 1 juangh juangh 3641 may  3  2016 info.trabajador.html
+-rwxrwxrwx 1 juangh juangh 3363 feb 18  2015 info.trabajador.original.html
+
+./singeniero:
+total 224
+-rwxr-xr-x  1 juangh juangh  4424 ene 18  2017 admin.py
+-rw-r--r--  1 juangh juangh  8927 feb  8  2017 admin.pyc
+-rwxr-xr-x  1 juangh juangh 10309 ene 18  2017 forms.py
+-rw-r--r--  1 juangh juangh 11282 feb  8  2017 forms.pyc
+-rwxr-xr-x  1 juangh juangh     0 nov 18  2016 __init__.py
+-rwxr-xr-x  1 juangh juangh   136 nov 21  2016 __init__.pyc
+-rw-r--r--  1 juangh juangh 30565 feb 15  2017 models.py
+-rw-r--r--  1 juangh juangh 34923 feb 17  2017 models.pyc
+-rwxr-xr-x  1 juangh juangh 23996 ene 18  2017 models.py.original
+drwxr-xr-x 16 juangh juangh  4096 ene 24  2017 plantilla
+-rwxr-xr-x  1 juangh juangh    60 nov 18  2016 tests.py
+-rwxr-xr-x  1 juangh juangh 39114 ene 23  2017 views.py
+-rw-r--r--  1 juangh juangh 33593 feb  8  2017 views.pyc
+
+./singeniero/plantilla:
+total 56
+drwxr-xr-x 2 juangh juangh 4096 feb  8  2017 ascensor
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bomba_agua
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 bomba_agua_fria
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 calderas
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 campana_extraccion_gases
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 clima_expansion_directa
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 compresor
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 equipo_cocina
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 equipo_lavanderia
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 extractores
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 grupo_electrogeno
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 manejadoras
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 panel_solar
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 ventilador
+
+./singeniero/plantilla/ascensor:
+total 12
+-rwxr-xr-x 1 juangh juangh 5549 ene 23  2017 ascensor.html
+-rwxr-xr-x 1 juangh juangh 3863 ene 18  2017 formulario.ascensor.html
+
+./singeniero/plantilla/bomba_agua:
+total 12
+-rwxr-xr-x 1 juangh juangh 5311 dic 12  2016 bomba_agua.html
+-rwxr-xr-x 1 juangh juangh 4010 dic  8  2016 formulario.bomba_agua.html
+
+./singeniero/plantilla/bomba_agua_fria:
+total 12
+-rwxr-xr-x 1 juangh juangh 5293 dic 12  2016 bomba_agua_fria.html
+-rwxr-xr-x 1 juangh juangh 3995 dic  8  2016 formulario.bomba_agua_fria.html
+
+./singeniero/plantilla/calderas:
+total 12
+-rwxr-xr-x 1 juangh juangh 4910 dic 12  2016 calderas.html
+-rwxr-xr-x 1 juangh juangh 3145 dic  8  2016 formulario.calderas.html
+
+./singeniero/plantilla/campana_extraccion_gases:
+total 12
+-rwxr-xr-x 1 juangh juangh 5211 dic 12  2016 campana_extraccion_gases.html
+-rwxr-xr-x 1 juangh juangh 3904 dic  8  2016 formulario.campana_extraccion_gases.html
+
+./singeniero/plantilla/clima_expansion_directa:
+total 12
+-rwxr-xr-x 1 juangh juangh 5079 dic 12  2016 clima_expansion_directa.html
+-rwxr-xr-x 1 juangh juangh 3455 dic  8  2016 formulario.clima_expansion_directa.html
+
+./singeniero/plantilla/compresor:
+total 12
+-rwxr-xr-x 1 juangh juangh 5212 dic 12  2016 compresor.html
+-rwxr-xr-x 1 juangh juangh 3733 dic  8  2016 formulario.compresor.html
+
+./singeniero/plantilla/equipo_cocina:
+total 12
+-rwxr-xr-x 1 juangh juangh 5189 dic 12  2016 equipo_cocina.html
+-rwxr-xr-x 1 juangh juangh 3684 dic  8  2016 formulario.equipo_cocina.html
+
+./singeniero/plantilla/equipo_lavanderia:
+total 12
+-rwxr-xr-x 1 juangh juangh 5405 dic 12  2016 equipo_lavanderia.html
+-rwxr-xr-x 1 juangh juangh 4065 dic  8  2016 formulario.equipo_lavanderia.html
+
+./singeniero/plantilla/extractores:
+total 12
+-rwxr-xr-x 1 juangh juangh 5195 dic 12  2016 extractores.html
+-rwxr-xr-x 1 juangh juangh 3836 dic  8  2016 formulario.extractores.html
+
+./singeniero/plantilla/grupo_electrogeno:
+total 16
+-rwxr-xr-x 1 juangh juangh 4529 ene 18  2017 formulario.grupo_electrogeno.html
+-rwxr-xr-x 1 juangh juangh 5455 ene 23  2017 grupo_electrogeno.html
+
+./singeniero/plantilla/manejadoras:
+total 12
+-rwxr-xr-x 1 juangh juangh 4091 dic  8  2016 formulario.manejadoras.html
+-rwxr-xr-x 1 juangh juangh 5352 dic 12  2016 manejadoras.html
+
+./singeniero/plantilla/panel_solar:
+total 12
+-rwxr-xr-x 1 juangh juangh 3589 dic  8  2016 formulario.panel_solar.html
+-rwxr-xr-x 1 juangh juangh 5122 dic 12  2016 panel_solar.html
+
+./singeniero/plantilla/ventilador:
+total 16
+-rwxr-xr-x 1 juangh juangh 4229 dic  8  2016 formulario.ventilador.html
+-rwxr-xr-x 1 juangh juangh 5397 dic 12  2016 ventilador.html
+
+./tareas:
+total 200
+-rwxrwxrwx 1 juangh juangh   705 dic  2  2016 admin.py
+-rw-r--r-- 1 juangh juangh  1436 dic  2  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh   717 abr 29  2015 forms.py
+-rwxrwxrwx 1 juangh juangh  1271 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh     0 feb 18  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh   142 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  2463 ene 17  2016 models.py
+-rwxrwxrwx 1 juangh juangh  4046 abr 25  2016 models.pyc
+drwxr-xr-x 3 juangh juangh  4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh    60 feb 18  2015 tests.py
+-rwxr-xr-x 1 juangh juangh 47758 nov 28  2016 views1.py
+-rwxrwxrwx 1 juangh juangh 27690 ene 17  2016 views2.py
+-rwxr-xr-x 1 juangh juangh 48069 ene  3  2017 views.py
+-rw-r--r-- 1 juangh juangh 38400 ene  3  2017 views.pyc
+
+./tareas/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 tareas
+
+./tareas/plantilla/tareas:
+total 104
+-rw-r--r-- 1 juangh juangh 14498 dic 28  2016 actividades.html
+-rwxrwxrwx 1 juangh juangh  3846 ene 17  2016 agregar_tarea2.html
+-rwxrwxrwx 1 juangh juangh   883 abr 29  2015 agregar_tarea_deficiencia.html
+-rwxr-xr-x 1 juangh juangh  7636 dic  2  2016 agregar_tarea.html
+-rw-r--r-- 1 juangh juangh  6866 dic 28  2016 anual.html
+-rwxr-xr-x 1 juangh juangh 19281 nov 28  2016 calendario.html
+-rwxrwxrwx 1 juangh juangh 21647 mar  8  2015 calendario-pdf.html
+-rwxrwxrwx 1 juangh juangh  8410 mar 22  2015 exportar.html
+-rwxrwxrwx 1 juangh juangh  3747 mar 28  2015 info.tarea.html
+-rwxrwxrwx 1 juangh juangh   524 feb 18  2015 tareas.html
+
+./telefonos:
+total 64
+-rwxrwxrwx 1 juangh juangh   360 mar 20  2015 admin.py
+-rwxrwxrwx 1 juangh juangh   989 abr 25  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh   970 mar 25  2015 forms.py
+-rwxrwxrwx 1 juangh juangh  2056 abr 25  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh     0 mar 20  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh   145 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  1072 mar 25  2015 models.py
+-rwxrwxrwx 1 juangh juangh  2059 abr 25  2016 models.pyc
+drwxr-xr-x 6 juangh juangh  4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh    60 mar 20  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 12305 oct 13  2016 views.py
+-rw-r--r-- 1 juangh juangh 11386 nov  5  2016 views.pyc
+
+./telefonos/plantilla:
+total 16
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 extenciones
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 pizarras
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 telefonia
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 telefonos
+
+./telefonos/plantilla/extenciones:
+total 12
+-rwxrwxrwx 1 juangh juangh 1425 mar 25  2015 agregar_extencion.html
+-rwxrwxrwx 1 juangh juangh 1338 mar 25  2015 editar_extencion.html
+-rwxrwxrwx 1 juangh juangh  953 mar 26  2015 info_extencion.html
+
+./telefonos/plantilla/pizarras:
+total 12
+-rwxrwxrwx 1 juangh juangh 1818 mar 25  2015 agregar_pizarra.html
+-rwxrwxrwx 1 juangh juangh 1832 mar 25  2015 editar_pizarra.html
+-rwxrwxrwx 1 juangh juangh 1306 mar 21  2015 info_pizarra.html
+
+./telefonos/plantilla/telefonia:
+total 16
+-rwxrwxrwx 1 juangh juangh   202 mar 22  2015 comun_telefonia.html
+-rwxrwxrwx 1 juangh juangh 11057 jul  1  2016 listar_telefonia.html
+
+./telefonos/plantilla/telefonos:
+total 12
+-rwxrwxrwx 1 juangh juangh 1337 mar 21  2015 agregar_telefono.html
+-rwxrwxrwx 1 juangh juangh 1339 mar 21  2015 editar_telefono.html
+-rwxrwxrwx 1 juangh juangh  938 mar 21  2015 info_telefono.html
+
+./transporte:
+total 60
+-rwxrwxrwx 1 juangh juangh  817 abr  8  2016 1017597-af6338862f9ea5b64e31b82a056f20d250c406b1.zip
+-rwxrwxrwx 1 juangh juangh 1326 may 13  2016 admin.py
+-rwxrwxrwx 1 juangh juangh 2893 jun 30  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh 1468 may  3  2016 forms.py
+-rwxrwxrwx 1 juangh juangh 1848 may  3  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    0 abr  5  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh  146 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh 3939 nov  5  2016 models.py
+-rw-r--r-- 1 juangh juangh 6039 nov  5  2016 models.pyc
+drwxr-xr-x 3 juangh juangh 4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh   60 abr  5  2016 tests.py
+-rwxrwxrwx 1 juangh juangh 6900 feb  8  2017 views.py
+-rw-r--r-- 1 juangh juangh 5835 feb  8  2017 views.pyc
+
+./transporte/plantilla:
+total 4
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 transporte
+
+./transporte/plantilla/transporte:
+total 36
+-rwxrwxrwx 1 juangh juangh 1478 oct 13  2016 editar_transporte.html
+-rwxrwxrwx 1 juangh juangh 4045 oct 13  2016 formulario.transporte1.html
+-rwxrwxrwx 1 juangh juangh 6275 nov  5  2016 formulario.transporte.html
+-rwxrwxrwx 1 juangh juangh 4298 nov  5  2016 info.transporte.html
+-rwxrwxrwx 1 juangh juangh 4621 oct 13  2016 transporte.html
+-rwxrwxrwx 1 juangh juangh 1872 oct 13  2016 transporte_subordinados.html
+
+./unidad:
+total 84
+-rwxrwxrwx 1 juangh juangh  1809 ene 23  2017 admin.py
+-rw-r--r-- 1 juangh juangh  3436 ene 23  2017 admin.pyc
+-rwxrwxrwx 1 juangh juangh  1470 oct 13  2016 forms.py
+-rwxrwxrwx 1 juangh juangh  2653 oct 13  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh    53 feb 18  2015 geany_run_script.bat
+-rwxrwxrwx 1 juangh juangh     0 feb 18  2015 __init__.py
+-rwxrwxrwx 1 juangh juangh   142 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  5111 dic 20  2016 models.py
+-rw-r--r-- 1 juangh juangh  7296 dic 20  2016 models.pyc
+drwxr-xr-x 6 juangh juangh  4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh    63 feb 18  2015 tests.py
+-rwxrwxrwx 1 juangh juangh 17408 oct 14  2016 views.py
+-rwxrwxrwx 1 juangh juangh 15420 oct 14  2016 views.pyc
+
+./unidad/plantilla:
+total 20
+-rwxrwxrwx 1 juangh juangh  271 may  3  2016 alfa.html
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 departamento
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 logs
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 plaza_departamento
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 unidad
+
+./unidad/plantilla/departamento:
+total 16
+-rwxrwxrwx 1 juangh juangh 1387 oct 13  2016 editar.departamento.html
+-rwxrwxrwx 1 juangh juangh 1408 may  3  2016 formulario.departamento.html
+-rwxrwxrwx 1 juangh juangh 4047 oct 14  2016 index.departamento.html
+-rwxrwxrwx 1 juangh juangh 1500 may  3  2016 info.departamento.html
+
+./unidad/plantilla/logs:
+total 4
+-rwxrwxrwx 1 juangh juangh 1203 feb 18  2015 ver_log_usuario.html
+
+./unidad/plantilla/plaza_departamento:
+total 16
+-rwxrwxrwx 1 juangh juangh 1613 may  3  2016 editar.plaza_departamento.html
+-rwxrwxrwx 1 juangh juangh 1626 may  3  2016 formulario.plaza_departamento.html
+-rwxrwxrwx 1 juangh juangh 3821 oct 14  2016 index.plaza_departamento.html
+-rwxrwxrwx 1 juangh juangh 1744 feb 20  2015 info.plaza_departamento.html
+
+./unidad/plantilla/unidad:
+total 20
+-rwxrwxrwx 1 juangh juangh 1764 feb 18  2015 editar.unidad.html
+-rwxrwxrwx 1 juangh juangh  808 feb 18  2015 formulario.unidad.html
+-rwxrwxrwx 1 juangh juangh 2301 oct 13  2016 index.unidad.html
+-rwxrwxrwx 1 juangh juangh 2114 oct 13  2016 info.unidad.html
+-rwxrwxrwx 1 juangh juangh 1863 oct 13  2016 unidades.sub.unidad.html
+
+./vigilancia:
+total 96
+-rwxrwxrwx 1 juangh juangh  1158 jun 30  2016 admin.py
+-rwxrwxrwx 1 juangh juangh  2446 jun 30  2016 admin.pyc
+-rwxrwxrwx 1 juangh juangh  7809 jun 30  2016 forms.py
+-rwxrwxrwx 1 juangh juangh  8944 jun 30  2016 forms.pyc
+-rwxrwxrwx 1 juangh juangh     0 feb 23  2016 __init__.py
+-rwxrwxrwx 1 juangh juangh   146 abr 25  2016 __init__.pyc
+-rwxrwxrwx 1 juangh juangh  8237 jun 30  2016 models.py
+-rwxrwxrwx 1 juangh juangh  8477 jun 30  2016 models.pyc
+drwxr-xr-x 4 juangh juangh  4096 ene 24  2017 plantilla
+-rwxrwxrwx 1 juangh juangh    60 feb 23  2016 tests.py
+-rwxrwxrwx 1 juangh juangh 13789 oct 13  2016 views.py
+-rw-r--r-- 1 juangh juangh 13203 nov  5  2016 views.pyc
+
+./vigilancia/plantilla:
+total 8
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 informes
+drwxr-xr-x 2 juangh juangh 4096 ene 24  2017 logs
+
+./vigilancia/plantilla/informes:
+total 72
+-rwxrwxrwx 1 juangh juangh 2232 abr 19  2016 formulario.adulticida.html
+-rwxrwxrwx 1 juangh juangh 4560 jun 30  2016 formulario.albopictus.html
+-rwxrwxrwx 1 juangh juangh 1151 abr 19  2016 formulario.centroscerrados.html
+-rwxrwxrwx 1 juangh juangh 1470 abr 19  2016 formulario.centrospositivos.html
+-rwxrwxrwx 1 juangh juangh 5791 jun 30  2016 formulario.centrospriorizados.html
+-rwxrwxrwx 1 juangh juangh 2158 abr 19  2016 formulario.focal.html
+-rwxrwxrwx 1 juangh juangh 1624 abr 19  2016 formulario.recursos.html
+-rwxrwxrwx 1 juangh juangh 2647 jul  1  2016 index.adulticida.html
+-rwxrwxrwx 1 juangh juangh 3915 jul  1  2016 index.albopictus.html
+-rwxrwxrwx 1 juangh juangh 2371 jul  1  2016 index.centroscerrados.html
+-rwxrwxrwx 1 juangh juangh 2485 jul  1  2016 index.centrospositivos.html
+-rwxrwxrwx 1 juangh juangh 5061 jul  1  2016 index.centrospriorizados.html
+-rwxrwxrwx 1 juangh juangh 5021 jul  1  2016 index.focal.html
+-rwxrwxrwx 1 juangh juangh 2501 jul  1  2016 index.recursos.html
+
+./vigilancia/plantilla/logs:
+total 4
+-rwxrwxrwx 1 juangh juangh 831 jul  1  2016 ver_log_usuario.html
